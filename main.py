@@ -14,6 +14,9 @@ import json
 import requests
 import datetime
 import sys
+import openai
+
+openai.api_key = "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"
 
 speak = SpeakEngine("HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Speech\\Voices\\TokenEnums\\RHVoice\\Volodymyr")
 
@@ -51,8 +54,8 @@ class VoiceAssistant:
 
             except RequestError:
                 self.__recognized = "RequestError"
-
-        self.recognize_command()
+            finally:
+                self.recognize_command()
 
     def filtering(self):
         """Для обробки помилкок, фільтрації текстку та ігнорування імені голосового помічника"""
@@ -81,24 +84,22 @@ class VoiceAssistant:
         return self.__recognized
 
     def recognize_command(self):
-        """Розпізнавання команди та її виконання"""
+
+        sql = sqlite3.connect("commands.db")
         self.recognized_voice = self.filtering()
-        print("It's cool", self.recognized_voice)
-        db = sqlite3.connect("commands.db")
-        sql = db.cursor()
-
         similarity = 80
-
         for cmd in sql.execute("SELECT * FROM questions"):
             if fuzz.ratio(cmd[0], self.recognized_voice) > similarity:  # cmd[0] - question, cmd[1] - answer
                 print("[log]", self.recognized_voice)
                 speak(cmd[1])
+                sql.close()
                 return 0
 
         for cmd in sql.execute("SELECT * FROM URL"):
             if fuzz.ratio(cmd[0], self.recognized_voice) > similarity:  # cmd[0] - text, cmd[1] - url
                 print("[log]", self.recognized_voice)
                 wb.open(cmd[1])
+                sql.close()
                 return 0
 
         for cmd in sql.execute("SELECT * FROM execute_cmd"):
@@ -112,10 +113,9 @@ class VoiceAssistant:
                 for key, value in FUNCTIONS.items():
                     if cmd[1] == key:
                         speak(value())
+                        sql.close()
                         break
                 return 0
-
-        db.commit()
 
     @staticmethod
     def volume_plus(_):
@@ -157,7 +157,6 @@ VA = VoiceAssistant()
 
 
 class WindowAssistantApp(App):
-
     def __init__(self, **kwargs):
         super().__init__(**kwargs)
         self.bl = BoxLayout(orientation="vertical", padding=20)

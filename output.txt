@@ -1,0 +1,1702 @@
+<!DOCTYPE html>
+<html lang="uk" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head> 
+    <meta charset="utf-8" />
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-156299313-5"></script>
+<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);gtag("config", "UA-156299313-5", {"groups":"default","anonymize_ip":true,"page_placeholder":"PLACEHOLDER_page_path"});gtag("config", "G-ZKTNCKB8KG", {"groups":"default","page_placeholder":"PLACEHOLDER_page_location"});</script>
+<link rel="canonical" href="https://lntu.edu.ua/uk/studentu-0/navchannya/rozklad-zanyat-ta-ispytiv-lntu" />
+<meta name="description" content="Ð Ð¾Ð·ÐºÐ»Ð°Ð´ Ð·Ð°Ð½ÑÑÑ ÐÐÐ¢Ð£" />
+<meta name="abstract" content="Ð£Ð½ÑÐ²ÐµÑÑÐ¸ÑÐµÑ, ÐÑÑÑÐº, Ð¢ÐµÑÐ½ÑÑÐ½Ð¸Ð¹ Ð£Ð½ÑÐ²ÐµÑÑÐ¸ÑÐµÑ, ÐÐÐ¢Ð£, ÑÐ½ÑÐ¾ÑÐ¼Ð°ÑÑÑ, Ð²ÑÑÑÐ¿, ÐÑÐ°Ð²Ð¸Ð»Ð° Ð¿ÑÐ¸Ð¹Ð¾Ð¼Ñ, ÑÑÐ½Ð°, Ð½Ð°Ð²ÑÐ°Ð½Ð½Ñ, ÑÑÐ½Ð° Ð½Ð°Ð²ÑÐ°Ð½Ð½Ñ, ÐºÐ¾Ð½ÑÐµÑÐµÐ½ÑÑÑ, ÐºÐ¾Ð²ÐµÐ»Ñ, ÐÑÐ±ÐµÑÑÐ², ÐºÐ¾Ð»ÐµÐ´Ð¶, ÐÐ¢Ð£" />
+<meta name="keywords" content="Ð Ð¾Ð·ÐºÐ»Ð°Ð´ Ð·Ð°Ð½ÑÑÑ ÑÐ° ÑÑÐ¿Ð¸ÑÑÐ² ÐÐÐ¢Ð£, Ð£Ð½ÑÐ²ÐµÑÑÐ¸ÑÐµÑ, ÐÑÑÑÐº, Ð¢ÐµÑÐ½ÑÑÐ½Ð¸Ð¹ Ð£Ð½ÑÐ²ÐµÑÑÐ¸ÑÐµÑ, ÐÐÐ¢Ð£, ÑÐ½ÑÐ¾ÑÐ¼Ð°ÑÑÑ, Ð²ÑÑÑÐ¿, ÐÑÐ°Ð²Ð¸Ð»Ð° Ð¿ÑÐ¸Ð¹Ð¾Ð¼Ñ, ÑÑÐ½Ð°, Ð½Ð°Ð²ÑÐ°Ð½Ð½Ñ, ÑÑÐ½Ð° Ð½Ð°Ð²ÑÐ°Ð½Ð½Ñ, ÐºÐ¾Ð½ÑÐµÑÐµÐ½ÑÑÑ, ÐºÐ¾Ð²ÐµÐ»Ñ, ÐÑÐ±ÐµÑÑÐ², ÐºÐ¾Ð»ÐµÐ´Ð¶, ÐÐ¢Ð£" />
+<meta property="og:image:url" content="https://lntu.edu.ua/sites/default/files/styles/height/public/default_images/standart-news-logo_1.jpg" />
+<meta name="Generator" content="Drupal 9 (https://www.drupal.org); Commerce 2" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="shortcut icon" href="/sites/default/files/favicon.png" type="image/png" />
+<link rel="alternate" hreflang="uk" href="https://lntu.edu.ua/uk/studentu-0/navchannya/rozklad-zanyat-ta-ispytiv-lntu" />
+<link rel="alternate" hreflang="en" href="https://lntu.edu.ua/en/studentu-0/navchannya/rozklad-zanyat-ta-ispytiv-lntu" />
+<script>window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};</script>
+
+    <title>Ð Ð¾Ð·ÐºÐ»Ð°Ð´ Ð·Ð°Ð½ÑÑÑ ÑÐ° ÑÑÐ¿Ð¸ÑÑÐ² ÐÐÐ¢Ð£ | ÐÐÐ¢Ð£ | ÐÑÑÑÐºÐ¸Ð¹ Ð½Ð°ÑÑÐ¾Ð½Ð°Ð»ÑÐ½Ð¸Ð¹ ÑÐµÑÐ½ÑÑÐ½Ð¸Ð¹ ÑÐ½ÑÐ²ÐµÑÑÐ¸ÑÐµÑ</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_L_VPWu_WqAW7SxrwHucRJcnizyJz6hReSENSyuQwuQU.css" />
+<link rel="stylesheet" media="all" href="https://unpkg.com/@fullcalendar/core@4.4.2/main.min.css" />
+<link rel="stylesheet" media="all" href="https://unpkg.com/@fullcalendar/daygrid@4.4.2/main.min.css" />
+<link rel="stylesheet" media="all" href="https://unpkg.com/@fullcalendar/timegrid@4.4.2/main.min.css" />
+<link rel="stylesheet" media="all" href="https://unpkg.com/@fullcalendar/list@4.4.2/main.min.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_k2QJCh5F2_aUV3q3U-EollXPbN5H4fo95GSsHBXMrWg.css" />
+<link rel="stylesheet" media="all" href="//fonts.googleapis.com/css?family=Roboto:300,400,500,700" />
+<link rel="stylesheet" media="all" href="//fonts.googleapis.com/css?family=Rubik:400,500,700" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_hNCy-3YZ2o2dQA4JvZgPYsUw6nrr1GbAizep0mRexyU.css" />
+
+
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"/","scriptPath":null,"pathPrefix":"uk/","currentPath":"node/239","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"uk"},"pluralDelimiter":"","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"addtoany/addtoany,core/jquery,fullcalendar_view/fullcalendar,gavias_content_builder/gavias_content_builder.assets.frontend,gavias_sliderlayer/gavias_sliderlayer.assets.frontend,gavias_unix/gavias_unix.skin.default,gavias_unix/global-styling,google_analytics/google_analytics,paragraphs/drupal.paragraphs.unpublished,simple_popup_blocks/simple_popup_blocks,statistics/drupal.statistics,system/base,views/views.ajax,views/views.module","theme":"gavias_unix","theme_token":null},"ajaxTrustedUrl":{"/uk/search/content":true},"google_analytics":{"account":"UA-156299313-5","trackOutbound":true,"trackMailto":true,"trackTel":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"simple_popup_blocks":{"settings":[{"identifier":"block-homepopupblock","uid":"home_pop","type":"0","css_selector":"1","layout":"4","visit_counts":"0","overlay":"1","trigger_method":"0","trigger_selector":"#custom-css-id","enable_escape":"1","delay":"0","minimize":"0","close":"1","use_time_frequency":"1","time_frequency":"3600","show_minimized_button":"0","width":"350","cookie_expiry":"1","status":"1","trigger_width":""}]},"views":{"ajax_path":"/uk/views/ajax","ajaxViews":{"views_dom_id:cf07cf87d1eacf7a91d6382bfaf94829900ad194d5f07a9109d1251abf6ac762":{"view_name":"post_other","view_display_id":"block_1","view_args":"","view_path":"/node/239","view_base_path":"media","view_dom_id":"cf07cf87d1eacf7a91d6382bfaf94829900ad194d5f07a9109d1251abf6ac762","pager_element":0},"views_dom_id:0e8bad2d07817c89a4aa025d2ee73b66df926f7470e654b5a45fbe634809656c":{"view_name":"kalendar_novyn","view_display_id":"block_1","view_args":"","view_path":"/node/239","view_base_path":null,"view_dom_id":"0e8bad2d07817c89a4aa025d2ee73b66df926f7470e654b5a45fbe634809656c","pager_element":0}}},"statistics":{"data":{"nid":"239"},"url":"/core/modules/statistics/statistics.php"},"gavias_load_ajax_view":"/uk/custom/gavias_hook/ajax_view","fullCalendarView":[{"languageSelector":0,"updateConfirm":0,"dialogWindow":0,"eventBundleType":"","startField":"field_data_dlya_kalendarya","endField":"","dblClickToCreate":false,"entityType":"node","addForm":"node/add/","token":"","openEntityInNewTab":0,"calendar_options":"{"plugins":["moment","interaction","dayGrid","timeGrid","list","rrule"],"timeZone":"Europe\/Kiev","defaultView":"dayGridMonth","defaultDate":"2023-11-22","header":{"left":"prev,next","center":"title","right":"dayGridMonth"},"eventTimeFormat":"_","firstDay":1,"locale":"uk","events":[{"title":" ","id":"0-0","eid":"9676","url":"\/uk\/media?data=2023-11-22","des":"<a href=\"\/uk\/media?data=2023-11-22\"> <\/a>","editable":false,"start":"2023-11-22","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"1-0","eid":"9673","url":"\/uk\/media?data=2023-11-22","des":"<a href=\"\/uk\/media?data=2023-11-22\"> <\/a>","editable":false,"start":"2023-11-22","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"2-0","eid":"9672","url":"\/uk\/media?data=2023-11-22","des":"<a href=\"\/uk\/media?data=2023-11-22\"> <\/a>","editable":false,"start":"2023-11-22","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"3-0","eid":"9671","url":"\/uk\/media?data=2023-11-22","des":"<a href=\"\/uk\/media?data=2023-11-22\"> <\/a>","editable":false,"start":"2023-11-22","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"4-0","eid":"9670","url":"\/uk\/media?data=2023-11-22","des":"<a href=\"\/uk\/media?data=2023-11-22\"> <\/a>","editable":false,"start":"2023-11-22","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"5-0","eid":"9669","url":"\/uk\/media?data=2023-11-22","des":"<a href=\"\/uk\/media?data=2023-11-22\"> <\/a>","editable":false,"start":"2023-11-22","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"6-0","eid":"9668","url":"\/uk\/media?data=2023-11-22","des":"<a href=\"\/uk\/media?data=2023-11-22\"> <\/a>","editable":false,"start":"2023-11-22","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"7-0","eid":"9667","url":"\/uk\/media?data=2023-11-22","des":"<a href=\"\/uk\/media?data=2023-11-22\"> <\/a>","editable":false,"start":"2023-11-22","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"8-0","eid":"9666","url":"\/uk\/media?data=2023-11-22","des":"<a href=\"\/uk\/media?data=2023-11-22\"> <\/a>","editable":false,"start":"2023-11-22","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"9-0","eid":"9665","url":"\/uk\/media?data=2023-11-22","des":"<a href=\"\/uk\/media?data=2023-11-22\"> <\/a>","editable":false,"start":"2023-11-22","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"10-0","eid":"9664","url":"\/uk\/media?data=2023-11-21","des":"<a href=\"\/uk\/media?data=2023-11-21\"> <\/a>","editable":false,"start":"2023-11-21","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"11-0","eid":"9663","url":"\/uk\/media?data=2023-11-21","des":"<a href=\"\/uk\/media?data=2023-11-21\"> <\/a>","editable":false,"start":"2023-11-21","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"12-0","eid":"9662","url":"\/uk\/media?data=2023-11-21","des":"<a href=\"\/uk\/media?data=2023-11-21\"> <\/a>","editable":false,"start":"2023-11-21","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"13-0","eid":"9661","url":"\/uk\/media?data=2023-11-21","des":"<a href=\"\/uk\/media?data=2023-11-21\"> <\/a>","editable":false,"start":"2023-11-21","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"14-0","eid":"9660","url":"\/uk\/media?data=2023-11-21","des":"<a href=\"\/uk\/media?data=2023-11-21\"> <\/a>","editable":false,"start":"2023-11-21","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"15-0","eid":"9659","url":"\/uk\/media?data=2023-11-21","des":"<a href=\"\/uk\/media?data=2023-11-21\"> <\/a>","editable":false,"start":"2023-11-21","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"16-0","eid":"9658","url":"\/uk\/media?data=2023-11-21","des":"<a href=\"\/uk\/media?data=2023-11-21\"> <\/a>","editable":false,"start":"2023-11-21","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"17-0","eid":"9657","url":"\/uk\/media?data=2023-11-21","des":"<a href=\"\/uk\/media?data=2023-11-21\"> <\/a>","editable":false,"start":"2023-11-21","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"18-0","eid":"9655","url":"\/uk\/media?data=2023-11-21","des":"<a href=\"\/uk\/media?data=2023-11-21\"> <\/a>","editable":false,"start":"2023-11-21","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"19-0","eid":"9654","url":"\/uk\/media?data=2023-11-21","des":"<a href=\"\/uk\/media?data=2023-11-21\"> <\/a>","editable":false,"start":"2023-11-21","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"20-0","eid":"9652","url":"\/uk\/media?data=2023-11-20","des":"<a href=\"\/uk\/media?data=2023-11-20\"> <\/a>","editable":false,"start":"2023-11-20","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"21-0","eid":"9651","url":"\/uk\/media?data=2023-11-19","des":"<a href=\"\/uk\/media?data=2023-11-19\"> <\/a>","editable":false,"start":"2023-11-19","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"22-0","eid":"9650","url":"\/uk\/media?data=2023-11-19","des":"<a href=\"\/uk\/media?data=2023-11-19\"> <\/a>","editable":false,"start":"2023-11-19","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"23-0","eid":"9649","url":"\/uk\/media?data=2023-11-18","des":"<a href=\"\/uk\/media?data=2023-11-18\"> <\/a>","editable":false,"start":"2023-11-18","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"24-0","eid":"9648","url":"\/uk\/media?data=2023-11-18","des":"<a href=\"\/uk\/media?data=2023-11-18\"> <\/a>","editable":false,"start":"2023-11-18","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"25-0","eid":"9647","url":"\/uk\/media?data=2023-11-18","des":"<a href=\"\/uk\/media?data=2023-11-18\"> <\/a>","editable":false,"start":"2023-11-18","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"26-0","eid":"9646","url":"\/uk\/media?data=2023-11-18","des":"<a href=\"\/uk\/media?data=2023-11-18\"> <\/a>","editable":false,"start":"2023-11-18","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"27-0","eid":"9645","url":"\/uk\/media?data=2023-11-18","des":"<a href=\"\/uk\/media?data=2023-11-18\"> <\/a>","editable":false,"start":"2023-11-18","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"28-0","eid":"9644","url":"\/uk\/media?data=2023-11-18","des":"<a href=\"\/uk\/media?data=2023-11-18\"> <\/a>","editable":false,"start":"2023-11-18","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"29-0","eid":"9643","url":"\/uk\/media?data=2023-11-18","des":"<a href=\"\/uk\/media?data=2023-11-18\"> <\/a>","editable":false,"start":"2023-11-18","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"30-0","eid":"9642","url":"\/uk\/media?data=2023-11-18","des":"<a href=\"\/uk\/media?data=2023-11-18\"> <\/a>","editable":false,"start":"2023-11-18","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"31-0","eid":"9641","url":"\/uk\/media?data=2023-11-17","des":"<a href=\"\/uk\/media?data=2023-11-17\"> <\/a>","editable":false,"start":"2023-11-17","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"32-0","eid":"9640","url":"\/uk\/media?data=2023-11-17","des":"<a href=\"\/uk\/media?data=2023-11-17\"> <\/a>","editable":false,"start":"2023-11-17","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"33-0","eid":"9638","url":"\/uk\/media?data=2023-11-17","des":"<a href=\"\/uk\/media?data=2023-11-17\"> <\/a>","editable":false,"start":"2023-11-17","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"34-0","eid":"9637","url":"\/uk\/media?data=2023-11-17","des":"<a href=\"\/uk\/media?data=2023-11-17\"> <\/a>","editable":false,"start":"2023-11-17","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"35-0","eid":"9635","url":"\/uk\/media?data=2023-11-17","des":"<a href=\"\/uk\/media?data=2023-11-17\"> <\/a>","editable":false,"start":"2023-11-17","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"36-0","eid":"9634","url":"\/uk\/media?data=2023-11-17","des":"<a href=\"\/uk\/media?data=2023-11-17\"> <\/a>","editable":false,"start":"2023-11-17","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"37-0","eid":"9633","url":"\/uk\/media?data=2023-11-17","des":"<a href=\"\/uk\/media?data=2023-11-17\"> <\/a>","editable":false,"start":"2023-11-17","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"38-0","eid":"9632","url":"\/uk\/media?data=2023-11-17","des":"<a href=\"\/uk\/media?data=2023-11-17\"> <\/a>","editable":false,"start":"2023-11-17","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"39-0","eid":"9631","url":"\/uk\/media?data=2023-11-16","des":"<a href=\"\/uk\/media?data=2023-11-16\"> <\/a>","editable":false,"start":"2023-11-16","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"40-0","eid":"9630","url":"\/uk\/media?data=2023-11-16","des":"<a href=\"\/uk\/media?data=2023-11-16\"> <\/a>","editable":false,"start":"2023-11-16","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"41-0","eid":"9629","url":"\/uk\/media?data=2023-11-16","des":"<a href=\"\/uk\/media?data=2023-11-16\"> <\/a>","editable":false,"start":"2023-11-16","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"42-0","eid":"9628","url":"\/uk\/media?data=2023-11-16","des":"<a href=\"\/uk\/media?data=2023-11-16\"> <\/a>","editable":false,"start":"2023-11-16","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"43-0","eid":"9627","url":"\/uk\/media?data=2023-11-16","des":"<a href=\"\/uk\/media?data=2023-11-16\"> <\/a>","editable":false,"start":"2023-11-16","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"44-0","eid":"9626","url":"\/uk\/media?data=2023-11-16","des":"<a href=\"\/uk\/media?data=2023-11-16\"> <\/a>","editable":false,"start":"2023-11-16","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"45-0","eid":"9625","url":"\/uk\/media?data=2023-11-16","des":"<a href=\"\/uk\/media?data=2023-11-16\"> <\/a>","editable":false,"start":"2023-11-16","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"46-0","eid":"9624","url":"\/uk\/media?data=2023-11-15","des":"<a href=\"\/uk\/media?data=2023-11-15\"> <\/a>","editable":false,"start":"2023-11-15","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"47-0","eid":"9623","url":"\/uk\/media?data=2023-11-15","des":"<a href=\"\/uk\/media?data=2023-11-15\"> <\/a>","editable":false,"start":"2023-11-15","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"48-0","eid":"9622","url":"\/uk\/media?data=2023-11-15","des":"<a href=\"\/uk\/media?data=2023-11-15\"> <\/a>","editable":false,"start":"2023-11-15","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"49-0","eid":"9621","url":"\/uk\/media?data=2023-11-15","des":"<a href=\"\/uk\/media?data=2023-11-15\"> <\/a>","editable":false,"start":"2023-11-15","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"50-0","eid":"9620","url":"\/uk\/media?data=2023-11-15","des":"<a href=\"\/uk\/media?data=2023-11-15\"> <\/a>","editable":false,"start":"2023-11-15","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"51-0","eid":"9615","url":"\/uk\/media?data=2023-11-15","des":"<a href=\"\/uk\/media?data=2023-11-15\"> <\/a>","editable":false,"start":"2023-11-15","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"52-0","eid":"9614","url":"\/uk\/media?data=2023-11-15","des":"<a href=\"\/uk\/media?data=2023-11-15\"> <\/a>","editable":false,"start":"2023-11-15","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"53-0","eid":"9613","url":"\/uk\/media?data=2023-11-15","des":"<a href=\"\/uk\/media?data=2023-11-15\"> <\/a>","editable":false,"start":"2023-11-15","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"54-0","eid":"9612","url":"\/uk\/media?data=2023-11-15","des":"<a href=\"\/uk\/media?data=2023-11-15\"> <\/a>","editable":false,"start":"2023-11-15","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"55-0","eid":"9611","url":"\/uk\/media?data=2023-11-14","des":"<a href=\"\/uk\/media?data=2023-11-14\"> <\/a>","editable":false,"start":"2023-11-14","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"56-0","eid":"9610","url":"\/uk\/media?data=2023-11-14","des":"<a href=\"\/uk\/media?data=2023-11-14\"> <\/a>","editable":false,"start":"2023-11-14","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"57-0","eid":"9609","url":"\/uk\/media?data=2023-11-14","des":"<a href=\"\/uk\/media?data=2023-11-14\"> <\/a>","editable":false,"start":"2023-11-14","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"58-0","eid":"9604","url":"\/uk\/media?data=2023-11-14","des":"<a href=\"\/uk\/media?data=2023-11-14\"> <\/a>","editable":false,"start":"2023-11-14","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"59-0","eid":"9603","url":"\/uk\/media?data=2023-11-13","des":"<a href=\"\/uk\/media?data=2023-11-13\"> <\/a>","editable":false,"start":"2023-11-13","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"60-0","eid":"9602","url":"\/uk\/media?data=2023-11-11","des":"<a href=\"\/uk\/media?data=2023-11-11\"> <\/a>","editable":false,"start":"2023-11-11","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"61-0","eid":"9601","url":"\/uk\/media?data=2023-11-11","des":"<a href=\"\/uk\/media?data=2023-11-11\"> <\/a>","editable":false,"start":"2023-11-11","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"62-0","eid":"9600","url":"\/uk\/media?data=2023-11-11","des":"<a href=\"\/uk\/media?data=2023-11-11\"> <\/a>","editable":false,"start":"2023-11-11","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"63-0","eid":"9599","url":"\/uk\/media?data=2023-11-11","des":"<a href=\"\/uk\/media?data=2023-11-11\"> <\/a>","editable":false,"start":"2023-11-11","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"64-0","eid":"9598","url":"\/uk\/media?data=2023-11-11","des":"<a href=\"\/uk\/media?data=2023-11-11\"> <\/a>","editable":false,"start":"2023-11-11","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"65-0","eid":"9597","url":"\/uk\/media?data=2023-11-11","des":"<a href=\"\/uk\/media?data=2023-11-11\"> <\/a>","editable":false,"start":"2023-11-11","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"66-0","eid":"9596","url":"\/uk\/media?data=2023-11-10","des":"<a href=\"\/uk\/media?data=2023-11-10\"> <\/a>","editable":false,"start":"2023-11-10","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"67-0","eid":"9595","url":"\/uk\/media?data=2023-11-10","des":"<a href=\"\/uk\/media?data=2023-11-10\"> <\/a>","editable":false,"start":"2023-11-10","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"68-0","eid":"9594","url":"\/uk\/media?data=2023-11-10","des":"<a href=\"\/uk\/media?data=2023-11-10\"> <\/a>","editable":false,"start":"2023-11-10","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"69-0","eid":"9593","url":"\/uk\/media?data=2023-11-10","des":"<a href=\"\/uk\/media?data=2023-11-10\"> <\/a>","editable":false,"start":"2023-11-10","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"70-0","eid":"9592","url":"\/uk\/media?data=2023-11-10","des":"<a href=\"\/uk\/media?data=2023-11-10\"> <\/a>","editable":false,"start":"2023-11-10","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"71-0","eid":"9591","url":"\/uk\/media?data=2023-11-10","des":"<a href=\"\/uk\/media?data=2023-11-10\"> <\/a>","editable":false,"start":"2023-11-10","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"72-0","eid":"9577","url":"\/uk\/media?data=2023-11-09","des":"<a href=\"\/uk\/media?data=2023-11-09\"> <\/a>","editable":false,"start":"2023-11-09","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"73-0","eid":"9590","url":"\/uk\/media?data=2023-11-10","des":"<a href=\"\/uk\/media?data=2023-11-10\"> <\/a>","editable":false,"start":"2023-11-10","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"74-0","eid":"9589","url":"\/uk\/media?data=2023-11-10","des":"<a href=\"\/uk\/media?data=2023-11-10\"> <\/a>","editable":false,"start":"2023-11-10","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"75-0","eid":"9588","url":"\/uk\/media?data=2023-11-10","des":"<a href=\"\/uk\/media?data=2023-11-10\"> <\/a>","editable":false,"start":"2023-11-10","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"76-0","eid":"9587","url":"\/uk\/media?data=2023-11-09","des":"<a href=\"\/uk\/media?data=2023-11-09\"> <\/a>","editable":false,"start":"2023-11-09","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"77-0","eid":"9586","url":"\/uk\/media?data=2023-11-09","des":"<a href=\"\/uk\/media?data=2023-11-09\"> <\/a>","editable":false,"start":"2023-11-09","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"78-0","eid":"9585","url":"\/uk\/media?data=2023-11-09","des":"<a href=\"\/uk\/media?data=2023-11-09\"> <\/a>","editable":false,"start":"2023-11-09","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"79-0","eid":"9584","url":"\/uk\/media?data=2023-11-09","des":"<a href=\"\/uk\/media?data=2023-11-09\"> <\/a>","editable":false,"start":"2023-11-09","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"80-0","eid":"9582","url":"\/uk\/media?data=2023-11-09","des":"<a href=\"\/uk\/media?data=2023-11-09\"> <\/a>","editable":false,"start":"2023-11-09","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"81-0","eid":"9581","url":"\/uk\/media?data=2023-11-09","des":"<a href=\"\/uk\/media?data=2023-11-09\"> <\/a>","editable":false,"start":"2023-11-09","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"82-0","eid":"9580","url":"\/uk\/media?data=2023-11-09","des":"<a href=\"\/uk\/media?data=2023-11-09\"> <\/a>","editable":false,"start":"2023-11-09","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"83-0","eid":"9579","url":"\/uk\/media?data=2023-11-09","des":"<a href=\"\/uk\/media?data=2023-11-09\"> <\/a>","editable":false,"start":"2023-11-09","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"84-0","eid":"9578","url":"\/uk\/media?data=2023-11-09","des":"<a href=\"\/uk\/media?data=2023-11-09\"> <\/a>","editable":false,"start":"2023-11-09","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"85-0","eid":"9576","url":"\/uk\/media?data=2023-11-09","des":"<a href=\"\/uk\/media?data=2023-11-09\"> <\/a>","editable":false,"start":"2023-11-09","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"86-0","eid":"9636","url":"\/uk\/media?data=2023-11-17","des":"<a href=\"\/uk\/media?data=2023-11-17\"> <\/a>","editable":false,"start":"2023-11-17","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"87-0","eid":"9575","url":"\/uk\/media?data=2023-11-08","des":"<a href=\"\/uk\/media?data=2023-11-08\"> <\/a>","editable":false,"start":"2023-11-08","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"88-0","eid":"9574","url":"\/uk\/media?data=2023-11-08","des":"<a href=\"\/uk\/media?data=2023-11-08\"> <\/a>","editable":false,"start":"2023-11-08","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"89-0","eid":"9573","url":"\/uk\/media?data=2023-11-08","des":"<a href=\"\/uk\/media?data=2023-11-08\"> <\/a>","editable":false,"start":"2023-11-08","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"90-0","eid":"9572","url":"\/uk\/media?data=2023-11-08","des":"<a href=\"\/uk\/media?data=2023-11-08\"> <\/a>","editable":false,"start":"2023-11-08","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"91-0","eid":"9571","url":"\/uk\/media?data=2023-11-08","des":"<a href=\"\/uk\/media?data=2023-11-08\"> <\/a>","editable":false,"start":"2023-11-08","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"92-0","eid":"9569","url":"\/uk\/media?data=2023-11-08","des":"<a href=\"\/uk\/media?data=2023-11-08\"> <\/a>","editable":false,"start":"2023-11-08","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"93-0","eid":"9568","url":"\/uk\/media?data=2023-11-08","des":"<a href=\"\/uk\/media?data=2023-11-08\"> <\/a>","editable":false,"start":"2023-11-08","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"94-0","eid":"9567","url":"\/uk\/media?data=2023-11-08","des":"<a href=\"\/uk\/media?data=2023-11-08\"> <\/a>","editable":false,"start":"2023-11-08","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"95-0","eid":"9566","url":"\/uk\/media?data=2023-11-07","des":"<a href=\"\/uk\/media?data=2023-11-07\"> <\/a>","editable":false,"start":"2023-11-07","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"96-0","eid":"9564","url":"\/uk\/media?data=2023-11-07","des":"<a href=\"\/uk\/media?data=2023-11-07\"> <\/a>","editable":false,"start":"2023-11-07","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"97-0","eid":"9563","url":"\/uk\/media?data=2023-11-07","des":"<a href=\"\/uk\/media?data=2023-11-07\"> <\/a>","editable":false,"start":"2023-11-07","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"98-0","eid":"9562","url":"\/uk\/media?data=2023-11-07","des":"<a href=\"\/uk\/media?data=2023-11-07\"> <\/a>","editable":false,"start":"2023-11-07","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"},{"title":" ","id":"99-0","eid":"9561","url":"\/uk\/media?data=2023-11-07","des":"<a href=\"\/uk\/media?data=2023-11-07\"> <\/a>","editable":false,"start":"2023-11-07","allDay":true,"eventDurationEditable":false,"backgroundColor":"#3a87ad"}],"navLinks":false,"editable":false,"eventLimit":100,"eventOverlap":false}","dialog_options":"{"left":0,"top":0,"width":640,"height":480,"movable":true,"resizable":true,"style":{"backgroundColor":"rgba(255,255,255,0.9)","font-size":"1rem"}}"}],"user":{"uid":0,"permissionsHash":"13087545aba6bbfc94b27b2cf7392e56a51bf662e19e363757ee357472832fec"}}</script>
+<script src="/sites/default/files/js/js_TtYjd5fRiB15Po2_xObkKqCxc_RA2vcKsiDv-gA8yVc.js"></script>
+
+
+    <link rel="stylesheet" href="https://lntu.edu.ua/themes/gavias_unix/css/custom.css" media="screen" />
+    <link rel="stylesheet" href="https://lntu.edu.ua/themes/gavias_unix/css/update.css" media="screen" />
+
+    
+
+          <style type="text/css">
+        .gva_menu.gva_menu_main > li:nth-child(3) > ul > li:nth-child(1) > ul > li:nth-child(10) > a {color: red!important;}.nagl_rada tbody tr td { border-color:white;}
+      </style>
+    
+          <style class="customize"></style>
+    <script type="text/javascript" src="https://vnz.osvita.net/schedule-loader.ashx"></script>
+<script type="text/javascript">
+    var schedule = new ait.Schedule("#schedule_container", 11613, 
+        { isRenderHeader: false, isForceTextStyles: false });
+    var schedule = new ait.Schedule("#schedule_PROF", 11613, { isEmployeeMode: true });
+</script>    
+  </head>
+
+  
+  <body class="gavias-content-builder layout-no-sidebars wide js-preloader path-node node--type-page">
+
+    <a href="#main-content" class="visually-hidden focusable">
+      ÐÐµÑÐµÐ¹ÑÐ¸ Ð´Ð¾ Ð¾ÑÐ½Ð¾Ð²Ð½Ð¾Ð³Ð¾ Ð²Ð¼ÑÑÑÑ
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <div class="body-page gva-body-page">
+	    <div id="jpreContent">
+        <div id="jprecontent-inner">
+           <div class="preloader-wrapper hidden active">
+              <img src="https://lntu.edu.ua/themes/gavias_unix/images/preloader/preloader-7.gif" alt="" />
+           </div>  
+        </div>
+      </div>
+      <header id="header" class="header-v1">
+  
+  <div class="topbar">
+  <div class="container">
+    <div class="topbar-inner">
+      <div class="row">
+        
+        <div class="topbar-left col-sm-6 col-xs-6">
+
+                        <div>
+    <div class="language-switcher-language-url block block-language block-language-blocklanguage-interface no-title" id="block-peremikachmovi" role="navigation">
+  
+    
+      <div class="content block-content">
+      <ul class="links"><li hreflang="uk" data-drupal-link-system-path="node/239" class="uk is-active"><a href="/uk/studentu-0/navchannya/rozklad-zanyat-ta-ispytiv-lntu" class="language-link is-active" hreflang="uk" data-drupal-link-system-path="node/239">uk</a></li><li hreflang="en" data-drupal-link-system-path="node/239" class="en"><a href="/en/studentu-0/navchannya/rozklad-zanyat-ta-ispytiv-lntu" class="language-link" hreflang="en" data-drupal-link-system-path="node/239">en</a></li></ul>
+    </div>
+  </div>
+
+  </div>
+
+              
+          <div class="social-list">
+ 
+            
+          </div>
+
+        </div>
+
+        <div class="topbar-right col-sm-6 col-xs-6">
+          <div id="topbar-menu">
+                            <div>
+    <nav role="navigation" aria-labelledby="block-menutopbar-menu" id="block-menutopbar" class="block block-menu navigation menu--menu-topbar">
+          
+  
+    
+  <div class="block-content">
+                 
+              <ul class="gva_menu">
+        
+            <li  class="menu-item">
+        <a href="/uk/z-viroyu-v-zsu" gva_layout="menu-list" gva_layout_columns="3" gva_block="gavias_unix_companypresentation" gva_block_uk="gavias_unix_companypresentation" gva_block_en="gavias_unix_companypresentation" data-drupal-link-system-path="node/7398">Ð Ð²ÑÑÐ¾Ñ Ð² ÐÐ¡Ð£</a>
+        
+      </li>
+    
+            <li  class="menu-item">
+        <a href="/yakist-osviti" gva_layout="menu-list" gva_layout_columns="3" gva_block="gavias_unix_companypresentation" gva_block_uk="gavias_unix_companypresentation" gva_block_en="gavias_unix_companypresentation">Ð¯ÐºÑÑÑÑ Ð¾ÑÐ²ÑÑÐ¸</a>
+        
+      </li>
+    
+            <li  class="menu-item">
+        <a href="/uk/abituriyentu/dodatkovo/vartist-navchannya-pidhotovky-perepidhotovky-pidvyshchennya-kvalifikatsiyi-2023" gva_layout="menu-list" gva_layout_columns="3" gva_block="gavias_unix_companypresentation" gva_block_uk="gavias_unix_companypresentation" gva_block_en="gavias_unix_companypresentation" data-drupal-link-system-path="node/8932">ÐÐ°ÑÑÑÑÑÑ Ð½Ð°Ð²ÑÐ°Ð½Ð½Ñ</a>
+        
+      </li>
+    
+            <li  class="menu-item">
+        <a href="https://next.privat24.ua/payments/form/%7B%22companyID%22:%22536590%22,%22form%22:%7B%22query%22:%2205477296%22%7D%7D" gva_layout="menu-list" gva_layout_columns="3" gva_block="gavias_unix_companypresentation" gva_block_uk="gavias_unix_companypresentation" gva_block_en="gavias_unix_companypresentation">ÐÐ½Ð»Ð°Ð¹Ð½ Ð¾Ð¿Ð»Ð°ÑÐ°</a>
+        
+      </li>
+    
+            <li  class="menu-item">
+        <a href="/uk/e-portal" gva_layout="menu-list" gva_layout_columns="3" gva_block="gavias_unix_companypresentation" gva_block_uk="gavias_unix_companypresentation" gva_block_en="gavias_unix_companypresentation" data-drupal-link-system-path="node/7869">Ð-ÐÐ¾ÑÑÐ°Ð»</a>
+        
+      </li>
+        </ul>
+  
+
+
+        </div>  
+</nav>
+
+  </div>
+
+                      </div>
+           
+                                  
+                      
+        </div>
+
+      </div>
+    </div>  
+  </div>  
+</div>
+
+            
+
+   <div class="header-main gv-sticky-menu">
+      <div class="container header-content-layout">
+         <div class="header-main-inner p-relative">
+            <div class="row">
+              <div class="col-md-3 col-sm-6 col-xs-8 branding">
+                                    <div>
+    
+      <a href="/uk" title="ÐÐ¾Ð»Ð¾Ð²Ð½Ð°" rel="home" class="site-branding-logo">
+        
+        <img src="/sites/default/files/logo/logo-lntu-svg2.svg" alt="ÐÐ¾Ð»Ð¾Ð²Ð½Ð°" />
+        
+    </a>
+    
+  </div>
+
+                              </div>
+
+              <div class="col-md-9 col-sm-6 col-xs-4 p-static">
+                <div class="header-inner clearfix">
+                  <div class="main-menu">
+                    <div class="area-main-menu">
+                      <div class="area-inner">
+                        <div class="gva-offcanvas-mobile">
+                          <div class="close-offcanvas hidden"><i class="fa fa-times"></i></div>
+                                                        <div>
+    <nav role="navigation" aria-labelledby="block-gavias-unix-mainnavigation-menu" id="block-gavias-unix-mainnavigation" class="block block-menu navigation menu--main">
+          
+  
+    
+  <div class="block-content">
+                 
+<div class="gva-navigation">
+
+              <ul  class="clearfix gva_menu gva_menu_main">
+      
+                              
+            <li  class="menu-item">
+        <a href="/uk">
+                    ÐÐ¾Ð»Ð¾Ð²Ð½Ð°
+            
+        </a>
+          
+              </li>
+                          
+            <li  class="menu-item menu-item--expanded menu-item--active-trail ">
+        <a href="">
+                    Ð¡ÑÑÐ´ÐµÐ½ÑÑ
+                      <span class="icaret nav-plus fa fa-angle-down"></span>
+            
+        </a>
+          
+                                <ul class="menu sub-menu">
+                              
+            <li  class="menu-item menu-item--active-trail">
+        <a href="/uk/studentu-0/navchannya/rozklad-zanyat-ta-ispytiv-lntu">
+                    Ð Ð¾Ð·ÐºÐ»Ð°Ð´ Ð·Ð°Ð½ÑÑÑ ÑÐ° ÑÑÐ¿Ð¸ÑÑÐ² ÐÐÐ¢Ð£
+            
+        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/uk/studentu-0/navchannya">
+                    ÐÐ°Ð²ÑÐ°Ð½Ð½Ñ
+            
+        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/uk/studentu-0/prava-studentiv">
+                    ÐÑÐ°Ð²Ð° ÑÑÑÐ´ÐµÐ½ÑÑÐ²
+            
+        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/uk/studentu-0/foreign-students">
+                    For International Students!
+            
+        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/uk/studentu-0/reytynhy-ta-stypendiya">
+                    Ð ÐµÐ¹ÑÐ¸Ð½Ð³Ð¸ ÑÐ° ÑÑÐ¸Ð¿ÐµÐ½Ð´ÑÑ
+            
+        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/uk/studentu-0/studentske-samovryaduvannya">
+                    Ð¡ÑÑÐ´ÐµÐ½ÑÑÑÐºÐµ ÑÐ°Ð¼Ð¾Ð²ÑÑÐ´ÑÐ²Ð°Ð½Ð½Ñ
+            
+        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/uk/studentu-0/rekvizyty-ta-rozmir-platy-za-navchannya">
+                    Ð ÐµÐºÐ²ÑÐ·Ð¸ÑÐ¸ ÑÐ° ÑÐ¾Ð·Ð¼ÑÑ Ð¿Ð»Ð°ÑÐ¸ Ð·Ð° Ð½Ð°Ð²ÑÐ°Ð½Ð½Ñ
+            
+        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/rekvizyty-ta-rozmir-platy-za-hurtozhytok">
+                    Ð ÐµÐºÐ²ÑÐ·Ð¸ÑÐ¸ ÑÐ° ÑÐ¾Ð·Ð¼ÑÑ Ð¿Ð»Ð°ÑÐ¸ Ð·Ð° Ð³ÑÑÑÐ¾Ð¶Ð¸ÑÐ¾Ðº
+            
+        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/uk/studentu-0/pratsevlashtuvannya">
+                    ÐÑÐ´ÑÐ¾Ð·Ð´ÑÐ» Ð¿ÑÐ°ÑÐµÐ²Ð»Ð°ÑÑÑÐ²Ð°Ð½Ð½Ñ
+            
+        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/uk/navchannya-v-umovakh-viyny">
+                    ÐÐ°Ð²ÑÐ°Ð½Ð½Ñ Ð² ÑÐ¼Ð¾Ð²Ð°Ñ Ð²ÑÐ¹Ð½Ð¸
+            
+        </a>
+          
+              </li>
+        </ul>
+  
+              </li>
+                         
+         
+                  
+            <li  class="menu-item menu-item--expanded  gva-mega-menu megamenu menu-grid menu-columns-3">
+        <a href="">
+                    ÐÐ±ÑÑÑÑÑÑÐ½ÑÑ
+                      <span class="icaret nav-plus fa fa-angle-down"></span>
+            
+        </a>
+          
+                                <ul class="menu sub-menu">
+                              
+            <li  class="menu-item menu-item--expanded">
+        <a href="">
+                    Ð£Ð¼Ð¾Ð²Ð¸ Ð²ÑÑÑÐ¿Ñ
+                      <span class="icaret nav-plus fa fa-angle-down"></span>
+            
+        </a>
+          
+                                <ul class="menu sub-menu">
+                              
+            <li  class="menu-item">
+        <a href="/uk/abituriyentu_/umovy-vstupu/umovy-vstupu-dlya-vypusknykiv-shkil">
+                    - ÐÐÐÐ£Ð¡ÐÐÐÐÐÐ Ð¨ÐÐÐ
+            
+        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/uk/abituriyentu_/umovy-vstupu/umovy-vstupu-dlya-vypusknykiv-koledzhiv">
+                    - ÐÐÐÐ£Ð¡ÐÐÐÐÐÐ ÐÐÐÐÐÐÐÐ
+            
+        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/uk/abituriyentu_/umovy-vstupu/abituriyentu_/umovy-vstupu/umovy-vstupu-dlya-zdobuttya-stupenya-mahistr">
+                    - ÐÐÐ¯ ÐÐÐÐÐ£Ð¢Ð¢Ð¯ Ð¡Ð¢Ð£ÐÐÐÐ¯ ÐÐÐÐÐ¡Ð¢Ð Ð
+            
+        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/uk/abituriyentu_/umovy-vstupu/druha-vyshcha-osvita">
+                    - ÐÐ Ð£ÐÐ ÐÐÐ©Ð ÐÐ¡ÐÐÐ¢Ð
+            
+        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/uk/vstup-bez-nmt-yevi-yefvv">
+                    - ÐÐ¡Ð¢Ð£Ð ÐÐÐ ÐÐÐ¢, ÐÐÐ, ÐÐ¤ÐÐ
+            
+        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/uk/abituriyentu_/vstup-za-rakhunok-vauchera">
+                    ÐÑÑÑÐ¿ Ð·Ð° ÑÐ°ÑÑÐ½Ð¾Ðº Ð²Ð°ÑÑÐµÑÐ°
+            
+        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/uk/abituriyentu_/kalendarni-hrafiku-vstupnoyi-kampaniyi">
+                    ÐÐ°Ð»ÐµÐ½Ð´Ð°ÑÐ½Ñ Ð³ÑÐ°ÑÑÐºÐ¸ Ð²ÑÑÑÐ¿Ð½Ð¾Ñ ÐºÐ°Ð¼Ð¿Ð°Ð½ÑÑ 2023
+            
+        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/uk/abituriyentu_/umovy-vstupu/aspiranturi-ta-doktoranturi">
+                    ÐÑÐ¿ÑÑÐ°Ð½ÑÑÑÐ° ÑÐ° Ð´Ð¾ÐºÑÐ¾ÑÐ°Ð½ÑÑÑÐ°
+            
+        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/uk/abituriyentu_/umovy-vstupu/vstupnykam-z-donbasu-ta-krymu">
+                    ÐÑÑÑÐ¿Ð½Ð¸ÐºÐ°Ð¼ Ð· ÐÐ¾Ð½Ð±Ð°ÑÑ ÑÐ° ÐÑÐ¸Ð¼Ñ
+            
+        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/uk/studentu-0/foreign-students">
+                    For International Students!
+            
+        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/uk/osoblyvi-umovy-vstupu-dlya-pilhovykh-katehoriy-2023">
+                    ÐÑÐ¾Ð±Ð»Ð¸Ð²Ñ ÑÐ¼Ð¾Ð²Ð¸ Ð²ÑÑÑÐ¿Ñ Ð´Ð»Ñ Ð¿ÑÐ»ÑÐ³Ð¾Ð²Ð¸Ñ ÐºÐ°ÑÐµÐ³Ð¾ÑÑÐ¹
+            
+        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/uk/studentu-0/reytynhy-ta-stypendiya/socialna-stypendiya">
+                    Ð¡Ð¾ÑÑÐ°Ð»ÑÐ½Ð° ÑÑÐ¸Ð¿ÐµÐ½Ð´ÑÑ
+            
+        </a>
+          
+              </li>
+        </ul>
+  
+              </li>
+                          
+            <li  class="menu-item menu-item--expanded">
+        <a href="">
+                    ÐÐ±ÑÑÑÑÑÑÐ½ÑÑ
+                      <span class="icaret nav-plus fa fa-angle-down"></span>
+            
+        </a>
+          
+                                <ul class="menu sub-menu">
+                              
+            <li  class="menu-item">
+        <a href="/uk/abituriyentu/pravyla-pryyomu-2023">
+                    ÐÑÐ°Ð²Ð¸Ð»Ð° Ð¿ÑÐ¸Ð¹Ð¾Ð¼Ñ 2023
+            
+        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/uk/abituriyentu/cpecialnosti">
+                    Ð¡Ð¿ÐµÑÑÐ°Ð»ÑÐ½Ð¾ÑÑÑ / Ð¾ÑÐ²ÑÑÐ½Ñ Ð¿ÑÐ¾Ð³ÑÐ°Ð¼Ð¸, Ð·Ð° ÑÐºÐ¸Ð¼Ð¸ Ð·Ð´ÑÐ¹ÑÐ½ÑÑÑÑÑÑ Ð²ÑÑÑÐ¿ Ñ 2023 ÑÐ¾ÑÑ
+            
+        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="https://testportal.gov.ua/putivnyk-uchasnyka-nmt-2023/">
+                    ÐÐ¾ÑÐ¾Ð¶Ð½Ñ ÐºÐ°ÑÑÐ° ÑÑÐ°ÑÐ½Ð¸ÐºÐ° ÐÐÐ-2023: Ð½Ð°ÑÑÐ¾Ð½Ð°Ð»ÑÐ½Ð¸Ð¹ Ð¼ÑÐ»ÑÑÐ¸ÑÐµÑÑ
+            
+        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/uk/abituriyentu/dokumenty-dlya-vstupu-v-lntu-2023">
+                    ÐÐ¾ÐºÑÐ¼ÐµÐ½ÑÐ¸ Ð´Ð»Ñ Ð²ÑÑÑÐ¿Ñ Ð² ÐÐÐ¢Ð£ 2023
+            
+        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/uk/abituriyentu/nakazy-na-zarakhuvannya-lntu-2023">
+                    ÐÐ°ÐºÐ°Ð·Ð¸ Ð½Ð° Ð·Ð°ÑÐ°ÑÑÐ²Ð°Ð½Ð½Ñ ÐÐÐ¢Ð£ 2023
+            
+        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/uk/abituriyentu/reytynhovi-spysky-lntu-2023">
+                    Ð ÐµÐ¹ÑÐ¸Ð½Ð³Ð¾Ð²Ñ ÑÐ¿Ð¸ÑÐºÐ¸ ÐÐÐ¢Ð£ 2023
+            
+        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/uk/abituriyentu/reytynhovi-spysky-lntu-2023">
+                    Ð¡Ð¿Ð¸ÑÐºÐ¸ ÑÐµÐºÐ¾Ð¼ÐµÐ½Ð´Ð¾Ð²Ð°Ð½Ð¸Ñ Ð½Ð° Ð±ÑÐ´Ð¶ÐµÑ 2023
+            
+        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/uk/abituriyentu/rezultaty-indyvidualnoyi-usnoyi-spivbesidy-2023">
+                    Ð ÐµÐ·ÑÐ»ÑÑÐ°ÑÐ¸ ÑÑÐ½Ð¾Ñ ÑÐ¿ÑÐ²Ð±ÐµÑÑÐ´Ð¸
+            
+        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/uk/abituriyentu/vse-pro-motyvatsiynyy-lyst">
+                    ÐÑÐµ Ð¿ÑÐ¾ Ð¼Ð¾ÑÐ¸Ð²Ð°ÑÑÐ¹Ð½Ð¸Ð¹ Ð»Ð¸ÑÑ
+            
+        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="https://fb.watch/ecS0P1Bu96/?fs=e&amp;s=cl">
+                    ÐÑÐ´ÐµÐ¾ ÑÐµÑÑÑÑÐ°ÑÑÑ Ð¾ÑÐ¾Ð±Ð¸ÑÑÐ¾Ð³Ð¾ ÐµÐ»ÐµÐºÑÑÐ¾Ð½Ð½Ð¾Ð³Ð¾ ÐºÐ°Ð±ÑÐ½ÐµÑÑ Ð²ÑÑÑÐ¿Ð½Ð¸ÐºÐ°
+            
+        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/uk/abituriyentu/rezultaty-vstupnykh-vyprobuvan-ta-tvorchykh-konkursiv-2023">
+                    Ð ÐµÐ·ÑÐ»ÑÑÐ°ÑÐ¸ Ð²ÑÑÑÐ¿Ð½Ð¸Ñ Ð²Ð¸Ð¿ÑÐ¾Ð±ÑÐ²Ð°Ð½Ñ ÑÐ° ÑÐ²Ð¾ÑÑÐ¸Ñ ÐºÐ¾Ð½ÐºÑÑÑÑÐ² 2023
+            
+        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/uk/abituriyentu/reyestratsiya-na-tvorchyy-konkurs-na-kontrakt-2023-rik">
+                    Ð ÐµÑÑÑÑÐ°ÑÑÑ Ð½Ð° ÑÐ²Ð¾ÑÑÐ¸Ð¹ ÐºÐ¾Ð½ÐºÑÑÑ Ð½Ð° ÐºÐ¾Ð½ÑÑÐ°ÐºÑ (2023 ÑÑÐº)
+            
+        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="https://www.youtube.com/watch?v=KMWYMigCBQU&amp;ab_channel=%D0%9E%D1%81%D0%B2%D1%96%D1%82%D0%B0%D0%92%D1%81%D1%96%D0%BC">
+                    Ð ÐµÑÑÑÑÐ°ÑÑÑ ÐµÐ»ÐµÐºÑÑÐ¾Ð½Ð½Ð¾Ð³Ð¾ ÐºÐ°Ð±ÑÐ½ÐµÑÑ 2023
+            
+        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/uk/abituriyentu/prohramy-vstupnykh-vyprobuvan-2023">
+                    ÐÑÐ¾Ð³ÑÐ°Ð¼Ð¸ Ð²ÑÑÑÐ¿Ð½Ð¸Ñ Ð²Ð¸Ð¿ÑÐ¾Ð±ÑÐ²Ð°Ð½Ñ 2023
+            
+        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/uk/foreign-students">
+                    For International Students!
+            
+        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/uk/abituriyentu/pryymalna-komisiya-lntu">
+                    ÐÑÐ¸Ð¹Ð¼Ð°Ð»ÑÐ½Ð° ÐºÐ¾Ð¼ÑÑÑÑ ÐÐÐ¢Ð£
+            
+        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/uk/abituriyentu/spivbesida-2023">
+                    Ð¡Ð¿ÑÐ²Ð±ÐµÑÑÐ´Ð° 2023
+            
+        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/uk/abituriyentu/vstupni-vyprobovuvannya-2023">
+                    ÐÑÑÑÐ¿Ð½Ñ Ð²Ð¸Ð¿ÑÐ¾Ð±Ð¾Ð²ÑÐ²Ð°Ð½Ð½Ñ 2023
+            
+        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/uk/vstup-2023">
+                    ÐÑÑÑÐ¿ 2023
+            
+        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/uk/vstupna-kampaniya-2022-0">
+                    ÐÑÑÑÐ¿Ð½Ð° ÐºÐ°Ð¼Ð¿Ð°Ð½ÑÑ 2022 (ÐÑÑÑÐ²)
+            
+        </a>
+          
+              </li>
+        </ul>
+  
+              </li>
+                          
+            <li  class="menu-item menu-item--expanded">
+        <a href="">
+                    ÐÐ¾Ð´Ð°ÑÐºÐ¾Ð²Ð¾
+                      <span class="icaret nav-plus fa fa-angle-down"></span>
+            
+        </a>
+          
+                                <ul class="menu sub-menu">
+                              
+            <li  class="menu-item">
+        <a href="/uk/dodatkovo/obsyahy-derzhavnoho-zamovlennya">
+                    ÐÐ±ÑÑÐ³Ð¸ Ð´ÐµÑÐ¶Ð°Ð²Ð½Ð¾Ð³Ð¾ Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ
+            
+        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="https://lntu.edu.ua/uk/abituriyentu/dodatkovo/vartist-navchannya-pidhotovky-perepidhotovky-pidvyshchennya-kvalifikatsiyi-2023">
+                    ÐÐ°ÑÑÑÑÑÑ Ð½Ð°Ð²ÑÐ°Ð½Ð½Ñ, Ð¿ÑÐ´Ð³Ð¾ÑÐ¾Ð²ÐºÐ¸, Ð¿ÐµÑÐµÐ¿ÑÐ´Ð³Ð¾ÑÐ¾Ð²ÐºÐ¸, Ð¿ÑÐ´Ð²Ð¸ÑÐµÐ½Ð½Ñ ÐºÐ²Ð°Ð»ÑÑÑÐºÐ°ÑÑÑ
+            
+        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/uk/abituriyentu_/dodatkovo/oholoshennya-pryymalnoyi-komisiyi">
+                    ÐÐ³Ð¾Ð»Ð¾ÑÐµÐ½Ð½Ñ Ð¿ÑÐ¸Ð¹Ð¼Ð°Ð»ÑÐ½Ð¾Ñ ÐºÐ¾Ð¼ÑÑÑÑ
+            
+        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/uk/abituriyentu/normatyvni-dokumenty-0">
+                    ÐÐ¾ÑÐ¼Ð°ÑÐ¸Ð²Ð½Ñ Ð´Ð¾ÐºÑÐ¼ÐµÐ½ÑÐ¸
+            
+        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/uk/abituriyentu_/dodatkovo/arkhiv">
+                    ÐÑÑÑÐ²
+            
+        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/uk/kontakty-upovnovazhenoyi-osoby-z-pytan-zapobihannya-ta-vyyavlennya-koruptsiyi">
+                    ÐÐ¾Ð½ÑÐ°ÐºÑÐ¸ ÑÐ¿Ð¾Ð²Ð½Ð¾Ð²Ð°Ð¶ÐµÐ½Ð¾Ñ Ð¾ÑÐ¾Ð±Ð¸ Ð· Ð¿Ð¸ÑÐ°Ð½Ñ Ð·Ð°Ð¿Ð¾Ð±ÑÐ³Ð°Ð½Ð½Ñ ÑÐ° Ð²Ð¸ÑÐ²Ð»ÐµÐ½Ð½Ñ ÐºÐ¾ÑÑÐ¿ÑÑÑ
+            
+        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/uk/media/vstupayesh-v-lntu-proponuyemo-prozhyvannya-u-hurtozhytkakh">
+                    ÐÑÐ¾Ð¿Ð¾Ð½ÑÑÐ¼Ð¾ Ð¿ÑÐ¾Ð¶Ð¸Ð²Ð°Ð½Ð½Ñ Ñ Ð³ÑÑÑÐ¾Ð¶Ð¸ÑÐºÐ°Ñ!
+            
+        </a>
+          
+              </li>
+        </ul>
+  
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/uk/nadvazhlyvo">
+                    ÐÐ°Ð´Ð²Ð°Ð¶Ð»Ð¸Ð²Ð¾
+            
+        </a>
+          
+              </li>
+        </ul>
+  
+              </li>
+                          
+            <li  class="menu-item menu-item--expanded ">
+        <a href="">
+                    ÐÑÑÐ»ÑÐ½ÑÑÑÑ
+                      <span class="icaret nav-plus fa fa-angle-down"></span>
+            
+        </a>
+          
+                                <ul class="menu sub-menu">
+                              
+            <li  class="menu-item">
+        <a href="/uk/studentu-0/navchannya">
+                    ÐÐ°Ð²ÑÐ°Ð»ÑÐ½Ð°
+            
+        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/uk/diyalnist/naukova">
+                    ÐÐ°ÑÐºÐ¾Ð²Ð°
+            
+        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/uk/diyalnist/mizhnarodna">
+                    ÐÑÐ¶Ð½Ð°ÑÐ¾Ð´Ð½Ð°
+            
+        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/uk/diyalnist/proyektna">
+                    ÐÑÐ¾ÑÐºÑÐ½Ð°
+            
+        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/uk/diyalnist/molodezhnaya_politika">
+                    ÐÐ¾Ð»Ð¾Ð´ÑÐ¶Ð½Ð° Ð¿Ð¾Ð»ÑÑÐ¸ÐºÐ°
+            
+        </a>
+          
+              </li>
+        </ul>
+  
+              </li>
+                          
+            <li  class="menu-item menu-item--expanded ">
+        <a href="/uk/media">
+                    ÐÐµÐ´ÑÐ°
+                      <span class="icaret nav-plus fa fa-angle-down"></span>
+            
+        </a>
+          
+                                <ul class="menu sub-menu">
+                              
+            <li  class="menu-item">
+        <a href="/uk/media/news">
+                    ÐÐ¾Ð²Ð¸Ð½Ð¸
+            
+        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/uk/media/poster">
+                    ÐÐ½Ð¾Ð½ÑÐ¸
+            
+        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/uk/media/conferenc">
+                    ÐÐ¾Ð½ÑÐµÑÐµÐ½ÑÑÑ
+            
+        </a>
+          
+              </li>
+        </ul>
+  
+              </li>
+                          
+            <li  class="menu-item menu-item--expanded ">
+        <a href="">
+                    Ð¡ÑÑÑÐºÑÑÑÐ°
+                      <span class="icaret nav-plus fa fa-angle-down"></span>
+            
+        </a>
+          
+                                <ul class="menu sub-menu">
+                              
+            <li  class="menu-item">
+        <a href="/uk/struktura/nahlyadova-rada">
+                    ÐÐ°Ð³Ð»ÑÐ´Ð¾Ð²Ð° ÑÐ°Ð´Ð°
+            
+        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/uk/struktura/vchena-rada">
+                    ÐÑÐµÐ½Ð° ÑÐ°Ð´Ð°
+            
+        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/uk/struktura/fakulteti">
+                    Ð¤Ð°ÐºÑÐ»ÑÑÐµÑÐ¸
+            
+        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/uk/struktura/cafedries">
+                    ÐÐ°ÑÐµÐ´ÑÐ¸
+            
+        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/uk/struktura/viddily-lntu">
+                    ÐÑÐ´Ð´ÑÐ»Ð¸ ÐÐÐ¢Ð£
+            
+        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/uk/struktura/volyn-business-hub">
+                    ÐÐ°Ð²ÑÐ°Ð»ÑÐ½Ð¾-Ð½Ð°ÑÐºÐ¾Ð²Ð¸Ð¹ ÑÐµÐ½ÑÑ &quot;Volyn Business Hub&quot;
+            
+        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/uk/sportkompleks-lntu">
+                    Ð¡Ð¿Ð¾ÑÑÐºÐ¾Ð¼Ð¿Ð»ÐµÐºÑ ÐÐÐ¢Ð£
+            
+        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="http://library.lntu.edu.ua/">
+                    ÐÑÐ±Ð»ÑÐ¾ÑÐµÐºÐ°
+            
+        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/vidokremleni-strukturni-pidrozdily-koledzhi">
+                    ÐÑÐ´Ð¾ÐºÑÐµÐ¼Ð»ÐµÐ½Ñ ÑÑÑÑÐºÑÑÑÐ½Ñ Ð¿ÑÐ´ÑÐ¾Ð·Ð´ÑÐ»Ð¸ (ÐºÐ¾Ð»ÐµÐ´Ð¶Ñ)
+            
+        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/uk/struktura/infrastrukturni-pidrozdili">
+                    ÐÐ½ÑÑÐ°ÑÑÑÑÐºÑÑÑÐ½Ñ Ð¿ÑÐ´ÑÐ¾Ð·Ð´ÑÐ»Ð¸
+            
+        </a>
+          
+              </li>
+        </ul>
+  
+              </li>
+                          
+            <li  class="menu-item menu-item--expanded ">
+        <a href="">
+                    ÐÑÐ¾ Ð½Ð°Ñ
+                      <span class="icaret nav-plus fa fa-angle-down"></span>
+            
+        </a>
+          
+                                <ul class="menu sub-menu">
+                              
+            <li  class="menu-item">
+        <a href="/uk/pro_nas/istoriya">
+                    ÐÑÑÐ¾ÑÑÑ ÐÐÐ¢Ð£
+            
+        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/uk/pro_nas/ofitsiyna-informatsiya">
+                    ÐÑÑÑÑÐ¹Ð½Ð° ÑÐ½ÑÐ¾ÑÐ¼Ð°ÑÑÑ
+            
+        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/uk/pro_nas/administratsiya">
+                    ÐÐ´Ð¼ÑÐ½ÑÑÑÑÐ°ÑÑÑ
+            
+        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/uk/pro_nas/employee">
+                    ÐÑÐ°ÑÑÐ²Ð½Ð¸ÐºÐ¸
+            
+        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/uk/pro_nas/nashi-vipuskniki">
+                    ÐÑÐ¾ÑÑÐ°ÑÑÑ Ð²Ð¸Ð¿ÑÑÐºÐ½Ð¸ÐºÑÐ²
+            
+        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/uk/heroyi-ne-vmyrayut">
+                    ÐÐµÑÐ¾Ñ Ð½Ðµ Ð²Ð¼Ð¸ÑÐ°ÑÑÑ
+            
+        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/uk/pro_nas/accreditation">
+                    ÐÑÑÐµÐ½Ð·ÑÐ²Ð°Ð½Ð½Ñ ÑÐ° Ð°ÐºÑÐµÐ´Ð¸ÑÐ°ÑÑÑ
+            
+        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/uk/pro_nas/vidguki">
+                    ÐÑÐ´Ð³ÑÐºÐ¸ Ð¿ÑÐ¾ ÑÐ½ÑÐ²ÐµÑÑÐ¸ÑÐµÑ
+            
+        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/uk/pro_nas/antykoruptsiyna-diyalnist">
+                    ÐÐ½ÑÐ¸ÐºÐ¾ÑÑÐ¿ÑÑÐ¹Ð½Ð° Ð´ÑÑÐ»ÑÐ½ÑÑÑÑ
+            
+        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/uk/pro_nas/konsultativni-poslugi-ta-psihologichna-pidtrimka">
+                    ÐÐ¾Ð½ÑÑÐ»ÑÑÐ°ÑÐ¸Ð²Ð½Ñ Ð¿Ð¾ÑÐ»ÑÐ³Ð¸ ÑÐ° Ð¿ÑÐ¸ÑÐ¾Ð»Ð¾Ð³ÑÑÐ½Ð° Ð¿ÑÐ´ÑÑÐ¸Ð¼ÐºÐ°
+            
+        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/uk/materialno-tekhnichna-baza">
+                    ÐÐ°ÑÐµÑÑÐ°Ð»ÑÐ½Ð¾-ÑÐµÑÐ½ÑÑÐ½Ð° Ð±Ð°Ð·Ð°
+            
+        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/uk/lntu_u_reytingah">
+                    ÐÐÐ¢Ð£ Ñ ÑÐµÐ¹ÑÐ¸Ð½Ð³Ð°Ñ
+            
+        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/uk/kontakty">
+                    ÐÐ¾Ð½ÑÐ°ÐºÑÐ¸
+            
+        </a>
+          
+              </li>
+        </ul>
+  
+              </li>
+        </ul>
+  
+
+</div>
+
+
+        </div>  
+</nav>
+
+  </div>
+
+                          
+                            
+                                                  </div>
+                          
+                        <div id="menu-bar" class="menu-bar hidden-lg hidden-md">
+                          <span class="one"></span>
+                          <span class="two"></span>
+                          <span class="three"></span>
+                        </div>
+                        
+                        
+                                                  <div class="gva-search-region search-region">
+                            <span class="icon"><i class="fa fa-search"></i></span>
+                            <div class="search-content">  
+                                <div>
+    <div class="views-exposed-form block block-search container-inline" data-drupal-selector="views-exposed-form-search-content-page-1" id="block-rozkritaformasearch-contentpage-1">
+  
+    
+      <form action="/uk/search/content" method="get" id="views-exposed-form-search-content-page-1" accept-charset="UTF-8">
+  <div class="js-form-item form-item js-form-type-textfield form-item-keys js-form-item-keys form-no-label">
+        <input data-drupal-selector="edit-keys" type="text" id="edit-keys" name="keys" value="" size="30" maxlength="128" class="form-text" />
+
+        </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-drupal-selector="edit-submit-search-content" type="submit" id="edit-submit-search-content" value="ÐÐ½Ð°Ð¹ÑÐ¸" class="button js-form-submit form-submit" />
+</div>
+
+
+</form>
+
+  </div>
+
+  </div>
+
+                            </div>  
+                          </div>
+                                              </div>
+                    </div>
+                  </div>  
+                </div> 
+              </div>
+
+            </div>
+         </div>
+      </div>
+   </div>
+
+</header>
+	
+					<div class="breadcrumbs">
+			  <div>
+    
+<div class="breadcrumb-content-inner">
+  <div class="gva-breadcrumb-content">
+    <div id="block-gavias-unix-breadcrumbs" class="text-light block gva-block-breadcrumb block-system block-system-breadcrumb-block no-title">
+      <div class="breadcrumb-style" style="background-image: url(&#039;/themes/gavias_unix/images/breadcrumb.jpg&#039;);background-position: center top;background-repeat: repeat-x;">
+        <div class="container">
+          <div class="breadcrumb-content-main">
+            <h1 class="page-title"> Ð Ð¾Ð·ÐºÐ»Ð°Ð´ Ð·Ð°Ð½ÑÑÑ ÑÐ° ÑÑÐ¿Ð¸ÑÑÐ² ÐÐÐ¢Ð£ </h1>
+             
+                          <div class="">
+                <div class="content block-content">
+                  
+<div class="breadcrumb-links">
+  <div class="content-inner">
+          <nav class="breadcrumb " role="navigation" aria-labelledby="system-breadcrumb">
+        <h2 id="system-breadcrumb" class="visually-hidden">Ð ÑÐ´Ð¾Ðº Ð½Ð°Ð²ÑÒÐ°ÑÑÑ</h2>
+        <ol>
+          
+                            <li>
+                          <a href="/uk">ÐÐ¾Ð»Ð¾Ð²Ð½Ð°</a>
+                                      <span class=""> - </span>
+              
+          </li>
+                            <li>
+                          <a href="/uk/studentu-0">Ð¡ÑÑÐ´ÐµÐ½ÑÑ</a>
+                                      <span class=""> - </span>
+              
+          </li>
+                            <li>
+                          <a href="/uk/studentu-0/navchannya">ÐÐ°Ð²ÑÐ°Ð½Ð½Ñ </a>
+                                      <span class=""> - </span>
+              
+          </li>
+                            <li>
+                          
+                          
+          </li>
+                            <li>
+                           Ð Ð¾Ð·ÐºÐ»Ð°Ð´ Ð·Ð°Ð½ÑÑÑ ÑÐ° ÑÑÐ¿Ð¸ÑÑÐ² ÐÐÐ¢Ð£
+                          
+          </li>
+                </ol>
+      </nav>
+      </div> 
+</div> 
+
+                </div>
+              </div>  
+                      </div> 
+        </div>   
+      </div> 
+    </div>  
+  </div>  
+</div>  
+
+
+  </div>
+
+		</div>
+	
+	<div role="main" class="main main-page has-breadcrumb">
+	
+		<div class="clearfix"></div>
+			
+
+					<div class="help show hidden">
+				<div class="container">
+					<div class="content-inner">
+						  <div>
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+
+					</div>
+				</div>
+			</div>
+		
+				
+		<div class="clearfix"></div>
+				
+		<div class="clearfix"></div>
+		
+		<div id="content" class="content content-full">
+			<div class="container container-bg">
+									<div class="content-main-inner">
+	<div class="row">
+		
+					
+			 		
+														
+       
+
+		<div id="page-main-content" class="main-content col-xs-12 col-md-9 col-md-push-3 sb-l ">
+
+			<div class="main-content-inner">
+				
+				
+									<div class="content-main">
+						  <div>
+    <div id="block-gavias-unix-content" class="block block-system block-system-main-block no-title">
+  
+    
+      <div class="content block-content">
+      <!-- Start Display article for detail page -->
+
+  <article data-history-node-id="239" role="article" typeof="schema:WebPage" class="node node--type-page node--view-mode-full">
+        <div class="node__content clearfix">
+      
+      <div class="field field--name-field-punkt-vkladka field--type-entity-reference-revisions field--label-hidden field__items">
+              <div class="field__item">  <span id = "4419" class='chogortop'></span>
+  <div class="paragraph paragraph--type--dochirniy-akordeon paragraph--view-mode--default">
+          
+            <div class="field field--name-field-acordion-title field--type-string-long field--label-hidden field__item">Ð ÐÐÐÐÐÐ ÐÐÐÐÐÐÐÐ</div>
+      
+            <div class="field field--name-field-acordion-text field--type-text-long field--label-hidden field__item"><p align="center" style="text-align:center"><span style="font-size:11pt"><span style="line-height:115%"><span style="text-autospace:none"><span style="font-family:Calibri,sans-serif"><b><span style="font-size:39.5pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif"></span></span></span></b></span></span></span></span></p>
+
+<p align="center" style="text-align:center"><img alt="1" data-entity-type="file" data-entity-uuid="63753934-418f-4617-b412-655d5a0d0ae3" height="293" src="/sites/default/files/inline-images/101.png" width="293" loading="lazy" /></p>
+
+<p align="center" style="text-align:center"><span style="font-size:11pt"><span style="line-height:115%"><span style="text-autospace:none"><span style="font-family:Calibri,sans-serif"><b><span style="font-size:39.5pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif">Ð Ð¾Ð·ÐºÐ»Ð°Ð´ Ð´Ð·Ð²ÑÐ½ÐºÑÐ²</span></span></span></b></span></span></span></span></p>
+
+<p style="margin-left:76px; text-align:justify; text-indent:1.0cm"><span style="font-size:11pt"><span style="line-height:115%"><span style="text-autospace:none"><span style="font-family:Calibri,sans-serif"><b><span style="font-size:33.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif">1 Ð¿Ð°ÑÐ° </span></span></span></b><span style="font-size:33.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif">08:30 â</span></span></span> <span style="font-size:33.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif">09:</span></span></span><span lang="RU" style="font-size:33.0pt" xml:lang="RU" xml:lang="RU"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif">5</span></span></span><span style="font-size:33.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif">0</span></span></span></span></span></span></span></p>
+
+<p style="margin-left:76px; text-align:justify; text-indent:1.0cm"><span style="font-size:11pt"><span style="line-height:115%"><span style="text-autospace:none"><span style="font-family:Calibri,sans-serif"><b><span style="font-size:33.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif">2 Ð¿Ð°ÑÐ°</span></span></span></b> <span lang="RU" style="font-size:33.0pt" xml:lang="RU" xml:lang="RU"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif">1</span></span></span><span style="font-size:33.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif">0:00 â</span></span></span> <span style="font-size:33.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif">11:20</span></span></span></span></span></span></span></p>
+
+<p style="margin-left:76px; text-align:justify; text-indent:1.0cm"><span style="font-size:11pt"><span style="line-height:115%"><span style="text-autospace:none"><span style="font-family:Calibri,sans-serif"><b><span style="font-size:33.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif">3 Ð¿Ð°ÑÐ°</span></span></span></b><span style="font-size:33.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif"> 11:30 â</span></span></span> <span style="font-size:33.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif">12:50</span></span></span></span></span></span></span></p>
+
+<p style="margin-left:76px; text-align:justify; text-indent:1.0cm"><span style="font-size:11pt"><span style="line-height:115%"><span style="text-autospace:none"><span style="font-family:Calibri,sans-serif"><b><span style="font-size:33.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif">4 Ð¿Ð°ÑÐ° </span></span></span></b><span style="font-size:33.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif">13:20 â</span></span></span> <span style="font-size:33.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif">14:40</span></span></span></span></span></span></span></p>
+
+<p style="margin-left:76px; text-align:justify; text-indent:1.0cm"><span style="font-size:11pt"><span style="line-height:115%"><span style="text-autospace:none"><span style="font-family:Calibri,sans-serif"><b><span style="font-size:33.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif">5 Ð¿Ð°ÑÐ°</span></span></span></b><b> </b><span style="font-size:33.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif">14:50 â</span></span></span> <span style="font-size:33.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif">16:10</span></span></span></span></span></span></span></p>
+
+<p style="margin-left:76px; text-align:justify; text-indent:1.0cm"><span style="font-size:11pt"><span style="line-height:115%"><span style="text-autospace:none"><span style="font-family:Calibri,sans-serif"><b><span style="font-size:33.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif">6 </span></span></span></b><b><span style="font-size:33.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif">Ð¿Ð°ÑÐ°</span></span></span></b><b> </b><span style="font-size:33.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif">16:20 â</span></span></span> <span style="font-size:33.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif">17:40</span></span></span></span></span></span></span></p>
+
+<p style="margin-left:76px; text-align:justify; text-indent:1.0cm"><span style="font-size:11pt"><span style="line-height:115%"><span style="text-autospace:none"><span style="font-family:Calibri,sans-serif"><b><span style="font-size:33.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif">7 Ð¿Ð°ÑÐ°</span></span></span></b><span style="font-size:33.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif"> 17:50 â</span></span></span> <span style="font-size:33.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif">19:10</span></span></span></span></span></span></span></p>
+
+<p style="margin-left:76px; text-align:justify; text-indent:1.0cm"><span style="font-size:11pt"><span style="line-height:115%"><span style="text-autospace:none"><span style="font-family:Calibri,sans-serif"><b><span style="font-size:33.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif">8 Ð¿Ð°ÑÐ°</span></span></span></b><span style="font-size:33.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif"> 19:20 â 20:40</span></span></span></span></span></span></span></p>
+
+<p style="margin-left:76px; text-align:justify; text-indent:1.0cm; margin-bottom:11px"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span style="font-size:33.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif"></span></span></span></span></span></span></p>
+
+<p style="margin-left:180px; text-align:justify; margin-bottom:11px"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span style="font-size:33.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,serif"></span></span></span></span></span></span></p>
+</div>
+      
+      </div>
+</div>
+              <div class="field__item">  <span id = "4610" class='chogortop'></span>
+  <div class="paragraph paragraph--type--dochirniy-akordeon paragraph--view-mode--default">
+          
+            <div class="field field--name-field-acordion-title field--type-string-long field--label-hidden field__item">Ð ÐÐÐÐÐÐ ÐÐÐÐ¯Ð¢Ð¬ ÐÐÐ¯ Ð¡Ð¢Ð£ÐÐÐÐ¢ÐÐ</div>
+      
+            <div class="field field--name-field-acordion-text field--type-text-long field--label-hidden field__item"><p class="text-align-center" style="color:#3b3c93;"><strong>Ð ÐÐÐÐÐÐ ÐÐÐÐ¯Ð¢Ð¬ ÐÐÐ¯ Ð¡Ð¢Ð£ÐÐÐÐ¢ÐÐ</strong></p>
+<div id="schedule_container"></div></div>
+      
+      </div>
+</div>
+              <div class="field__item">  <span id = "4611" class='chogortop'></span>
+  <div class="paragraph paragraph--type--dochirniy-akordeon paragraph--view-mode--default">
+          
+            <div class="field field--name-field-acordion-title field--type-string-long field--label-hidden field__item">Ð ÐÐÐÐÐÐ ÐÐÐÐ¯Ð¢Ð¬ ÐÐÐ¯ ÐÐ ÐÐ¦ÐÐÐÐÐÐÐ</div>
+      
+            <div class="field field--name-field-acordion-text field--type-text-long field--label-hidden field__item"><p class="text-align-center" style="color:#3b3c93;"><strong>Ð ÐÐÐÐÐÐ ÐÐÐÐ¯Ð¢Ð¬ ÐÐÐ¯ ÐÐ ÐÐ¦ÐÐÐÐÐÐÐ</strong></p>
+<div id="schedule_PROF"></div></div>
+      
+      </div>
+</div>
+          </div>
+  
+          </div>
+  </article>
+
+
+    </div>
+  </div>
+
+
+
+    <div class="column-inner  bg-size-cover  ">
+        <div class="column-content-inner">
+            <div><div class="js-view-dom-id-6bb0cfe1fc24b4d0cc3cc39a47ea1d61f36dbb3bfbf59ee3060130ee3e893cef">
+  
+  
+  
+
+  
+  
+  
+
+  <div class="view-content-wrap">
+             <div class="item">
+        <div class="widget gsc-our-partners ">
+                <div class="image"></div>
+
+                <div class="content-inner">
+                    
+                    <div class="content">
+                        <p></p>
+                    </div>
+                </div>
+            </div>
+     </div>
+   </div>
+
+    
+
+  
+  
+
+  
+  
+</div>
+</div>
+
+        </div>
+    </div>
+
+
+
+  <div class="gsc-accordion">
+    <div class="panel-group skin-white" id="accordion-content-block" role="tablist" aria-multiselectable="true">
+    <div><div class="js-view-dom-id-6df69d22537bf51d960350320d09f88f956f7066bbd37f13ec880abf1f436317">
+  
+  
+  
+
+  
+  
+  
+
+    
+
+  
+  
+
+  
+  
+</div>
+</div>
+
+    </div>
+  </div>
+
+  </div>
+
+					</div>
+				
+							</div>
+
+		</div>
+
+		<!-- Sidebar Left -->
+								 		
+			
+			<div class="col-md-3 col-md-pull-9 col-sm-12 col-xs-12 sidebar sidebar-left">
+				<div class="sidebar-inner">
+					  <div>
+    <div class="views-element-container block block-views block-views-blockkalendar-novyn-block-1" id="block-views-block-kalendar-novyn-block-1-2">
+  
+      <h2 class="block-title" ><span>ÐÐ°Ð»ÐµÐ½Ð´Ð°Ñ</span></h2>
+    
+      <div class="content block-content">
+      <div><div class="js-view-dom-id-0e8bad2d07817c89a4aa025d2ee73b66df926f7470e654b5a45fbe634809656c">
+  
+  
+  
+
+  
+  
+  
+
+  <div>
+  <div class="js-drupal-fullcalendar" calendar-view-index="0" calendar-view-name="kalendar_novyn" calendar-display="block_1"></div>
+  <div class="bottom-buttons fc-button-group">
+          </div>
+</div>
+
+    
+
+  
+  
+
+      <footer>
+      <a href="/uk/media">ÐÐµÑÐµÐ³Ð»ÑÐ½ÑÑÐ¸ Ð²ÑÐµ</a>
+    </footer>
+  
+  
+</div>
+</div>
+
+    </div>
+  </div>
+<div class="views-element-container block block-views block-views-blockpost-other-block-1" id="block-views-block-post-other-block-1">
+  
+      <h2 class="block-title" ><span>ÐÐºÑÑÐ°Ð»ÑÐ½Ðµ</span></h2>
+    
+      <div class="content block-content">
+      <div><div class="post-style-list small js-view-dom-id-cf07cf87d1eacf7a91d6382bfaf94829900ad194d5f07a9109d1251abf6ac762">
+  
+  
+  
+
+  
+  
+  
+
+  <div class="item-list">
+  
+  <ul>
+
+          <li class="view-list-item" ><div class="views-field views-field-nothing"><div class="field-content"><div class="post-block">
+      <div class="post-image">
+              <a href="/uk/media/pro-akademichnu-dobrochesnist-dlya-studentiv-kafedry-sotsiohumanitarnykh-tekhnolohiy" hreflang="uk"><img src="/sites/default/files/styles/small/public/articles/5_0.jpg?itok=7mM2rhFX" alt="" loading="lazy" typeof="Image" />
+
+</a>
+
+      </div>
+      <div class="post-content">
+            <div class="post-title"> <a href="/uk/media/pro-akademichnu-dobrochesnist-dlya-studentiv-kafedry-sotsiohumanitarnykh-tekhnolohiy" hreflang="uk">ÐÑÐ¾ Ð°ÐºÐ°Ð´ÐµÐ¼ÑÑÐ½Ñ Ð´Ð¾Ð±ÑÐ¾ÑÐµÑÐ½ÑÑÑÑ Ð´Ð»Ñ ÑÑÑÐ´ÐµÐ½ÑÑÐ² ÐºÐ°ÑÐµÐ´ÑÐ¸ ÑÐ¾ÑÑÐ¾Ð³ÑÐ¼Ð°Ð½ÑÑÐ°ÑÐ½Ð¸Ñ ÑÐµÑÐ½Ð¾Ð»Ð¾Ð³ÑÐ¹</a> </div>            
+            <div class="post-meta">
+                   <span class="post-created">22.11.2023 </span>
+	     </div>
+       </div>
+</div></div></div></li>
+          <li class="view-list-item" ><div class="views-field views-field-nothing"><div class="field-content"><div class="post-block">
+      <div class="post-image">
+              <a href="/uk/media/zaproshuyemo-na-blahodiynyy-voleybolnyy-turnir-kubok-rektora-lntu" hreflang="uk"><img src="/sites/default/files/styles/small/public/articles/IMG_8425.png?itok=YXrjnrI9" alt="" loading="lazy" typeof="Image" />
+
+</a>
+
+      </div>
+      <div class="post-content">
+            <div class="post-title"> <a href="/uk/media/zaproshuyemo-na-blahodiynyy-voleybolnyy-turnir-kubok-rektora-lntu" hreflang="uk">ÐÐ°Ð¿ÑÐ¾ÑÑÑÐ¼Ð¾ Ð½Ð° Ð±Ð»Ð°Ð³Ð¾Ð´ÑÐ¹Ð½Ð¸Ð¹ Ð²Ð¾Ð»ÐµÐ¹Ð±Ð¾Ð»ÑÐ½Ð¸Ð¹ ÑÑÑÐ½ÑÑ Â«ÐÑÐ±Ð¾Ðº ÑÐµÐºÑÐ¾ÑÐ° ÐÐÐ¢Ð£Â»</a> </div>            
+            <div class="post-meta">
+                   <span class="post-created">22.11.2023 </span>
+	     </div>
+       </div>
+</div></div></div></li>
+          <li class="view-list-item" ><div class="views-field views-field-nothing"><div class="field-content"><div class="post-block">
+      <div class="post-image">
+              <a href="/uk/media/na-kafedri-obliku-i-audytu-vidbulosya-zasidannya-studentskoho-naukovoho-hurtka" hreflang="uk"><img src="/sites/default/files/styles/small/public/articles/IMG_8417.jpeg?itok=POH24ZOM" alt="" loading="lazy" typeof="Image" />
+
+</a>
+
+      </div>
+      <div class="post-content">
+            <div class="post-title"> <a href="/uk/media/na-kafedri-obliku-i-audytu-vidbulosya-zasidannya-studentskoho-naukovoho-hurtka" hreflang="uk">ÐÐ° ÐºÐ°ÑÐµÐ´ÑÑ Ð¾Ð±Ð»ÑÐºÑ Ñ Ð°ÑÐ´Ð¸ÑÑ Ð²ÑÐ´Ð±ÑÐ»Ð¾ÑÑ Ð·Ð°ÑÑÐ´Ð°Ð½Ð½Ñ ÑÑÑÐ´ÐµÐ½ÑÑÑÐºÐ¾Ð³Ð¾ Ð½Ð°ÑÐºÐ¾Ð²Ð¾Ð³Ð¾ Ð³ÑÑÑÐºÐ°</a> </div>            
+            <div class="post-meta">
+                   <span class="post-created">22.11.2023 </span>
+	     </div>
+       </div>
+</div></div></div></li>
+          <li class="view-list-item" ><div class="views-field views-field-nothing"><div class="field-content"><div class="post-block">
+      <div class="post-image">
+              <a href="/uk/media/na-fakulteti-biznesu-i-prava-lntu-provely-blahodiynyy-yarmarok" hreflang="uk"><img src="/sites/default/files/styles/small/public/articles/IMG_8415.jpeg?itok=Xxd5xynw" alt="" loading="lazy" typeof="Image" />
+
+</a>
+
+      </div>
+      <div class="post-content">
+            <div class="post-title"> <a href="/uk/media/na-fakulteti-biznesu-i-prava-lntu-provely-blahodiynyy-yarmarok" hreflang="uk">ÐÐ° ÑÐ°ÐºÑÐ»ÑÑÐµÑÑ Ð±ÑÐ·Ð½ÐµÑÑ Ñ Ð¿ÑÐ°Ð²Ð° ÐÐÐ¢Ð£ Ð¿ÑÐ¾Ð²ÐµÐ»Ð¸ Ð±Ð»Ð°Ð³Ð¾Ð´ÑÐ¹Ð½Ð¸Ð¹ ÑÑÐ¼Ð°ÑÐ¾Ðº</a> </div>            
+            <div class="post-meta">
+                   <span class="post-created">22.11.2023 </span>
+	     </div>
+       </div>
+</div></div></div></li>
+          <li class="view-list-item" ><div class="views-field views-field-nothing"><div class="field-content"><div class="post-block">
+      <div class="post-image">
+              <a href="/uk/media/kafedra-tlp-zaproshuye-na-mayster-klas" hreflang="uk"><img src="/sites/default/files/styles/small/public/articles/IMG_8395.jpeg?itok=ev-Zgq69" alt="" loading="lazy" typeof="Image" />
+
+</a>
+
+      </div>
+      <div class="post-content">
+            <div class="post-title"> <a href="/uk/media/kafedra-tlp-zaproshuye-na-mayster-klas" hreflang="uk">ÐÐ°ÑÐµÐ´ÑÐ° Ð¢ÐÐ Ð·Ð°Ð¿ÑÐ¾ÑÑÑ Ð½Ð° Ð¼Ð°Ð¹ÑÑÐµÑ-ÐºÐ»Ð°Ñ</a> </div>            
+            <div class="post-meta">
+                   <span class="post-created">22.11.2023 </span>
+	     </div>
+       </div>
+</div></div></div></li>
+    
+  </ul>
+
+</div>
+
+    
+
+  
+  <div class="more-link"><a href="/uk/media">ÐÐµÑÐµÐ³Ð»ÑÐ½ÑÑÐ¸ Ð²ÑÑ</a></div>
+
+
+  
+  
+</div>
+</div>
+
+    </div>
+  </div>
+<nav role="navigation" aria-labelledby="block-gavias-unix-menusecond-menu" id="block-gavias-unix-menusecond" class="block block-menu navigation menu--menu-second">
+    
+  
+      <h2 class="block-title"><span>ÐÐÐÐÐ¢Ð£ÐÐÐÐ Ð¡Ð¢ÐÐ ÐÐÐÐ</span></h2>
+    
+  <div class="block-content">
+                 
+              <ul class="gva_menu">
+        
+            <li  class="menu-item">
+        <a href="/rozklad-zanyat-ta-ispytiv-lntu" gva_layout="menu-list" gva_layout_columns="3" gva_block="gavias_unix_companypresentation" gva_block_uk="gavias_unix_companypresentation" gva_block_en="gavias_unix_companypresentation">Ð Ð¾Ð·ÐºÐ»Ð°Ð´ Ð·Ð°Ð½ÑÑÑ ÑÐ° ÑÑÐ¿Ð¸ÑÑÐ²</a>
+        
+      </li>
+    
+            <li  class="menu-item">
+        <a href="https://mdl.lntu.edu.ua/" gva_layout="menu-list" gva_layout_columns="3" gva_block="gavias_unix_companypresentation" gva_block_uk="gavias_unix_companypresentation" gva_block_en="gavias_unix_companypresentation">ÐÐ»ÐµÐºÑÑÐ¾Ð½Ð½Ð¸Ð¹ Ð¾ÑÐ²ÑÑÐ½ÑÐ¹ Ð¿Ð¾ÑÑÐ°Ð»</a>
+        
+      </li>
+    
+            <li  class="menu-item">
+        <a href="/rekvizyty-ta-rozmir-platy-za-navchannya" gva_layout="menu-list" gva_layout_columns="3" gva_block="gavias_unix_companypresentation" gva_block_uk="gavias_unix_companypresentation" gva_block_en="gavias_unix_companypresentation">ÐÐ¿Ð»Ð°ÑÐ° Ð·Ð° Ð½Ð°Ð²ÑÐ°Ð½Ð½Ñ</a>
+        
+      </li>
+    
+            <li  class="menu-item">
+        <a href="/umovy-vstupu-dlya-vypusknykiv-shkil" gva_layout="menu-list" gva_layout_columns="3" gva_block="gavias_unix_companypresentation" gva_block_uk="gavias_unix_companypresentation" gva_block_en="gavias_unix_companypresentation">Ð£Ð¼Ð¾Ð²Ð¸ Ð²ÑÑÑÐ¿Ñ</a>
+        
+      </li>
+    
+            <li  class="menu-item">
+        <a href="/uk/struktura/fakulteti" gva_layout="menu-list" gva_layout_columns="3" gva_block="gavias_unix_companypresentation" gva_block_uk="gavias_unix_companypresentation" gva_block_en="gavias_unix_companypresentation" data-drupal-link-system-path="node/442">Ð¤Ð°ÐºÑÐ»ÑÑÐµÑÐ¸</a>
+        
+      </li>
+    
+            <li  class="menu-item">
+        <a href="/cafedries" gva_layout="menu-list" gva_layout_columns="3" gva_block="gavias_unix_companypresentation" gva_block_uk="gavias_unix_companypresentation" gva_block_en="gavias_unix_companypresentation">ÐÐ°ÑÐµÐ´ÑÐ¸</a>
+        
+      </li>
+    
+            <li  class="menu-item">
+        <a href="/uk/media/vstup-2023" gva_layout="menu-list" gva_layout_columns="3" gva_block="gavias_unix_companypresentation" gva_block_uk="gavias_unix_companypresentation" gva_block_en="gavias_unix_companypresentation" data-drupal-link-system-path="taxonomy/term/1125">ÐÑÑÑÐ¿ 2023</a>
+        
+      </li>
+    
+            <li  class="menu-item">
+        <a href="/uk/media" gva_layout="menu-list" gva_layout_columns="3" gva_block="gavias_unix_companypresentation" gva_block_uk="gavias_unix_companypresentation" gva_block_en="gavias_unix_companypresentation" data-drupal-link-system-path="media">ÐÑÑÐ°Ð½Ð½Ñ Ð½Ð¾Ð²Ð¸Ð½Ð¸</a>
+        
+      </li>
+        </ul>
+  
+
+
+        </div>  
+</nav>
+<div id="block-gavias-unix-companypresentation" class="block block-block-content block-block-content9db6746c-07ed-4976-8d06-1a9a56f38e24 no-title">
+  
+    
+      <div class="content block-content">
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="company-presentation">
+  <div class="title">ÐÐ°Ñ ÐÑÐµÐ½Ð´Ð±ÑÐº</div>
+  <div class="desc">Ð¡Ð¸ÑÑÐµÐ¼Ð° Ð²ÑÐ·ÑÐ°Ð»ÑÐ½Ð¾Ñ ÑÐ´ÐµÐ½ÑÐ¸ÑÑÐºÐ°ÑÑÑ</div>
+  <div class="action"><a class="btn-white" target="_blank" href="https://drive.google.com/file/d/12eFyAa7XRNvicij7lRAHA4lxb2kpefAo/view?usp=sharing">ÐÐµÑÐµÐ³Ð»ÑÐ½ÑÑÐ¸</a></div>
+</div></div>
+      
+    </div>
+  </div>
+
+  </div>
+
+				</div>
+			</div>
+				<!-- End Sidebar Left -->
+
+		<!-- Sidebar Right -->
+				<!-- End Sidebar Right -->
+		
+	</div>
+</div>
+					
+			</div>
+		</div>
+
+		
+				
+			</div>
+</div>
+
+  
+<footer id="footer" class="footer">
+  <div class="footer-inner">
+    
+         <div class="footer-top">
+        <div class="container">
+          <div class="row">
+            <div class="col-xs-12">
+              <div class="before-footer clearfix area">
+                    <div>
+    <div id="block-gavias-unix-sociallinksfooter" class="block block-block-content block-block-content7e26e9e5-a2f4-4e12-9643-7c8954f954ef no-title">
+  
+    
+      <div class="content block-content">
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="footer-social">
+	<h5 style="color:#ffffff; font-weight: 400">Ð¡Ð¾ÑÑÐ°Ð»ÑÐ½Ñ Ð¼ÐµÑÐµÐ¶Ñ</h5>
+	<ul>
+		<li><a href="https://www.facebook.com/LutskNationalTechnicalUniversity" target="_blank"><i class="fa fa-facebook-square"></i></a></li>
+		<li><a href="https://www.instagram.com/lntu_lutsk/" target="_blank"><i class="fa fa-instagram"></i></a></li>
+		<li><a href="https://www.youtube.com/channel/UCifkWNKnI2mIAXv7yIedGaw/featured" target="_blank"><i class="fa fa-youtube-square" style="font-family: FontAwesome;"></i></a></li>
+	</ul>
+</div></div>
+      
+    </div>
+  </div>
+
+  </div>
+
+              </div>
+            </div>
+          </div>     
+        </div>   
+      </div> 
+          
+     <div class="footer-center">
+        <div class="container">      
+           <div class="row">
+                              <div class="footer-first col-lg-3 col-md-3 col-sm-12 col-xs-12 column">
+                    <div>
+    <div id="block-gavias-unix-contactinfo" class="block block-block-content block-block-content7da38301-272f-4979-8de1-06b564010f17">
+  
+      <h2 class="block-title" ><span>ÐÐ¾Ð½ÑÐ°ÐºÑÐ½Ð° ÑÐ½ÑÐ¾ÑÐ¼Ð°ÑÑÑ</span></h2>
+    
+      <div class="content block-content">
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="contact-info">
+	<ul class="contact-info">
+		<li><span><i class="fa fa-home"></i>Ð²ÑÐ». ÐÑÐ²ÑÐ²ÑÑÐºÐ°, 75
+Ð¼. ÐÑÑÑÐº
+ÐÐ¾Ð»Ð¸Ð½ÑÑÐºÐ° Ð¾Ð±Ð».
+43018, Ð£ÐºÑÐ°ÑÐ½Ð°</span> </li>
+		<li><span><i class="fa fa-mobile-phone"></i>+38 (0332) 74-61-03</span></li>
+		<li><a href="mailto:rector@lutsk-ntu.com.ua"><i class="fa fa-envelope-o"></i> rector@lutsk-ntu.com.ua</a> </li>
+                <li><a href="mailto:rector@lntu.edu.ua"><i class="fa fa-envelope-o"></i> rector@lntu.edu.ua</a> </li>
+                <li><a href="/form/forma-zv-yazku-iz-rektorom-lntu"><i class="fa fa-envelope-o"></i>Ð¤Ð¾ÑÐ¼Ð° Ð·Ð²Ð¾ÑÐ¾ÑÐ½ÑÐ¾Ð³Ð¾ Ð·Ð²`ÑÐ·ÐºÑ</a> </li>
+                  <p></p>
+                <li><span>
+                              <p><i class="fa fa-balance-scale"></i>Ð®ÑÐ¸Ð´Ð¸ÑÐ½Ð¸Ð¹ Ð²ÑÐ´Ð´ÑÐ»:</p>
+                            <i class="fa fa-mobile-phone"></i>+38 (0332) 74-61-28
+                      </span>
+                </li>
+                <li><span>
+                              <p><i class="fa fa-money"></i>ÐÑÑÐ³Ð°Ð»ÑÐµÑÑÑ:</p>
+                            <i class="fa fa-mobile-phone"></i>+38 (0332) 74-61-20
+                      </span>
+                </li>
+                <li><span>
+                              <p><i class="fa fa-futbol-o"></i>Ð¡Ð¿Ð¾ÑÑÐºÐ¾Ð¼Ð¿Ð»ÐµÐºÑ:</p>
+                            <i class="fa fa-mobile-phone"></i>+38 (0332) 74-61-23
+                      </span>
+                </li>
+	</ul>
+</div></div>
+      
+    </div>
+  </div>
+
+  </div>
+
+                </div> 
+              
+                             <div class="footer-second col-lg-3 col-md-3 col-sm-12 col-xs-12 column">
+                    <div>
+    <div id="block-priymalnakomisiya" class="block block-block-content block-block-content99890152-6666-4154-96b9-0e1ba282c9b5">
+  
+      <h2 class="block-title" ><span>ÐÑÐ¸Ð¹Ð¼Ð°Ð»ÑÐ½Ð° ÐºÐ¾Ð¼ÑÑÑÑ</span></h2>
+    
+      <div class="content block-content">
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="contact-info">
+<ul class="contact-info">
+	<li><span><i class="fa fa-home"></i>Ð²ÑÐ». ÐÑÐ²ÑÐ²ÑÑÐºÐ°, 75 Ð¼. ÐÑÑÑÐº ÐÐ¾Ð»Ð¸Ð½ÑÑÐºÐ° Ð¾Ð±Ð». 43018, Ð£ÐºÑÐ°ÑÐ½Ð°</span></li>
+	<li><span><i class="fa fa-mobile-phone"></i>+38 (0332) 74-61-11, </span></li>
+	<li><span><i class="fa fa-mobile-phone"></i>+38 (096) 543-89-89</span></li>
+	<a href="mailto:pk@lntu.edu.ua"><i class="fa fa-envelope-o"></i> pk@lntu.edu.ua</a>
+    <span><i class="fa fa-skype"></i> pk.lntu</span>
+</ul>
+</div>
+</div>
+      
+    </div>
+  </div>
+
+  </div>
+
+                </div> 
+              
+                              <div class="footer-third col-lg-3 col-md-3 col-sm-12 col-xs-12 column">
+                    <div>
+    <div id="block-gavias-unix-linkfooter" class="block block-block-content block-block-contentf68ff84d-6af0-4c49-8b85-ae338addc541">
+  
+      <h2 class="block-title" ><span>ÐÐ¾ÑÐ¸ÑÐ½Ñ Ð¿Ð¾ÐºÐ»Ð¸ÐºÐ°Ð½Ð½Ñ</span></h2>
+    
+      <div class="content block-content">
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="clearfix">
+       <ul class="menu">
+	  <li><a href="https://mon.gov.ua/ua" target="_blank">ÐÑÐ½ÑÑÑÐµÑÑÑÐ²Ð¾ Ð¾ÑÐ²ÑÑÐ¸ Ñ Ð½Ð°ÑÐºÐ¸ Ð£ÐºÑÐ°ÑÐ½Ð¸</a></li>
+	  <li><a href="https://vstup.edbo.gov.ua/" target="_blank">ÐÐ´Ð¸Ð½Ð° Ð´ÐµÑÐ¶Ð°Ð²Ð½Ð° ÐµÐ»ÐµÐºÑÑÐ¾Ð½Ð½Ð° Ð±Ð°Ð·Ð° Ð· Ð¿Ð¸ÑÐ°Ð½Ñ Ð¾ÑÐ²ÑÑÐ¸</a></li>
+          <li><a href="https://naqa.gov.ua/" target="_blank">ÐÐ°ÑÑÐ¾Ð½Ð°Ð»ÑÐ½Ðµ Ð°Ð³ÐµÐ½ÑÑÑÐ²Ð¾ ÑÐ· Ð·Ð°Ð±ÐµÐ·Ð¿ÐµÑÐµÐ½Ð½Ñ ÑÐºÐ¾ÑÑÑ Ð²Ð¸ÑÐ¾Ñ Ð¾ÑÐ²ÑÑÐ¸</a></li>
+          <li><a href="https://testportal.gov.ua/" target="_blank">Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ¸Ð¹ ÑÐµÐ½ÑÑ Ð¾ÑÑÐ½ÑÐ²Ð°Ð½Ð½Ñ ÑÐºÐ¾ÑÑÑ Ð¾ÑÐ²ÑÑÐ¸</a></li>
+       </ul>      
+</div>   </div>
+      
+    </div>
+  </div>
+
+  </div>
+
+                </div> 
+              
+                               <div class="footer-four col-lg-3 col-md-3 col-sm-12 col-xs-12 column">
+                    <div>
+    <div id="block-minakarti" class="block block-block-content block-block-content1d22c9ca-b42e-4f36-9add-500b1db970b6">
+  
+      <h2 class="block-title" ><span>ÐÐ¸ Ð½Ð° ÐºÐ°ÑÑÑ</span></h2>
+    
+      <div class="content block-content">
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field__item"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2525.679645940165!2d25.29402241595125!3d50.72588217536084!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4725999f70f99817%3A0x24b3061df232a04f!2z0JvRg9GG0LrQuNC5INC90LDRhtC40L7QvdCw0LvRjNC90YvQuSDRgtC10YXQvdC40YfQtdGB0LrQuNC5INGD0L3QuNCy0LXRgNGB0LjRgtC10YI!5e0!3m2!1sua!2sua!4v1636557788778!5m2!1sua!2sua" width="270" height="270" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+</div>
+      
+    </div>
+  </div>
+
+  </div>
+
+                </div> 
+                         </div>   
+        </div>
+    </div>  
+  </div>   
+
+      <div class="copyright">
+      <div class="container">
+        <div class="copyright-inner">
+              <div>
+    <div id="block-gavias-unix-copyright" class="block block-block-content block-block-content61f17841-749f-436d-9799-1dfeefd7ad43 no-title">
+  
+    
+      <div class="content block-content">
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="text-center">
+Â© ÐÑÑ Ð¿ÑÐ°Ð²Ð° Ð½Ð° ÑÑÐ°ÑÑÑ, ÑÐ»ÑÑÑÑÐ°ÑÑÑ Ñ ÑÐ½ÑÑ Ð¼Ð°ÑÐµÑÑÐ°Ð»Ð¸ Ð½Ð°Ð»ÐµÐ¶Ð°ÑÑ ÐÑÑÑÐºÐ¾Ð¼Ñ Ð½Ð°ÑÑÐ¾Ð½Ð°Ð»ÑÐ½Ð¾Ð¼Ñ ÑÐµÑÐ½ÑÑÐ½Ð¾Ð¼Ñ ÑÐ½ÑÐ²ÐµÑÑÐ¸ÑÐµÑÑ Ñ Ð¾ÑÐ¾ÑÐ¾Ð½ÑÑÑÑÑÑ Ð·Ð°ÐºÐ¾Ð½Ð¾Ð¼. <br> ÐÑÐ´ÑÐ²Ð¾ÑÐµÐ½Ð½Ñ Ð² Ð±ÑÐ´Ñ-ÑÐºÑÐ¹ ÑÐ¾ÑÐ¼Ñ Ð²ÑÑÐ»Ð¾Ð¼Ñ ÑÐ¸ ÑÐ°ÑÑÐºÐ¾Ð²Ð¾ Ð±ÑÐ´Ñ-ÑÐºÐ¸Ñ ÑÑÐ°ÑÑÑÐ², ÑÐ»ÑÑÑÑÐ°ÑÑÐ¹, ÑÐµÐºÐ»Ð°Ð¼Ð½Ð¸Ñ ÑÐ¸ ÑÐ½ÑÐ¸Ñ Ð¼Ð°ÑÐµÑÑÐ°Ð»ÑÐ² Ð±ÐµÐ· Ð¿Ð¾Ð¿ÐµÑÐµÐ´Ð½ÑÐ¾Ð³Ð¾ Ð¿Ð¸ÑÑÐ¼Ð¾Ð²Ð¾Ð³Ð¾ Ð´Ð¾Ð·Ð²Ð¾Ð»Ñ ÐÐÐÐÐ ÐÐÐ¯ÐÐ¢Ð¬Ð¡Ð¯.
+<br><span style="color: #FF8000;">Ã-Ð²ÐµÑÑÑÑ (Ð´ÐµÑÐºÑ ÑÐ¾Ð·Ð´ÑÐ»Ð¸ ÑÐ° ÑÑÐ½ÐºÑÑÑ ÑÐ°Ð¹ÑÑ Ð¿ÑÐ°ÑÑÑÑÑ Ñ ÑÐµÑÑÐ¾Ð²Ð¾Ð¼Ñ ÑÐµÐ¶Ð¸Ð¼Ñ).</span>
+</div>
+</div>
+      
+    </div>
+  </div>
+
+  </div>
+
+        </div>   
+      </div>   
+    </div>
+    <div id="gva-popup-ajax" class="clearfix"><div class="pajax-content"><a href="javascript:void(0);" class="btn-close"><i class="gv-icon-4"></i></a><div class="gva-popup-ajax-content clearfix"></div></div></div>
+</footer>
+
+
+  </div>
+
+    
+    <script src="/sites/default/files/js/js_sv9U8txFbHmssx3USYhKmpyq4VeLV4a9IM3reEhTUnY.js"></script>
+<script src="https://static.addtoany.com/menu/page.js" async></script>
+<script src="/sites/default/files/js/js_jcunZgvkCcigfdXOEqQTfcrpYIUKlkcvbei3b7pEtF8.js"></script>
+<script src="https://unpkg.com/moment@2.29.3/min/moment.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/rrule@2.6.8/dist/es5/rrule.min.js"></script>
+<script src="https://unpkg.com/@fullcalendar/core@4.4.2/main.min.js"></script>
+<script src="https://unpkg.com/@fullcalendar/core@4.4.2/locales-all.min.js"></script>
+<script src="https://unpkg.com/@fullcalendar/moment@4.4.2/main.min.js"></script>
+<script src="https://unpkg.com/@fullcalendar/daygrid@4.4.2/main.min.js"></script>
+<script src="https://unpkg.com/@fullcalendar/interaction@4.4.2/main.min.js"></script>
+<script src="https://unpkg.com/@fullcalendar/timegrid@4.4.2/main.min.js"></script>
+<script src="https://unpkg.com/@fullcalendar/list@4.4.2/main.min.js"></script>
+<script src="https://unpkg.com/@fullcalendar/rrule@4.4.2/main.min.js"></script>
+<script src="/sites/default/files/js/js_uhE-qAG6_jF-rxXH8TRp8v8xOqDdEZJ76DLgqF-GHUU.js"></script>
+
+    
+        
+  </body>
+</html>
