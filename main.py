@@ -106,9 +106,10 @@ class VoiceAssistant:
             if fuzz.ratio(cmd[0], self.recognized_voice) > similarity:  # cmd[0] - request, cmd[1] - calling
                 print("[log]", self.recognized_voice)
                 FUNCTIONS = {
+                    "get_schedule": Function().get_schedule,
                     "get_dolar": Function().get_dolar,
                     "now_time": Function().now_time,
-                    "exit": Function()._exit
+                    "exit": Function().exit
                 }
                 for key, value in FUNCTIONS.items():
                     if cmd[1] == key:
@@ -133,6 +134,18 @@ class VoiceAssistant:
 class Function:
 
     @staticmethod
+    def get_schedule() -> str:
+        import get_subjects
+        schedule_data = get_subjects.get_schedule()
+        disciplins = ""
+        for item in schedule_data['d']:
+            if item['full_date'] == get_subjects.get_date():
+                disciplins += item['study_time'] + " " + item['discipline'] + " "
+
+
+        return "Сьогодні" +disciplins
+
+    @staticmethod
     def now_time() -> str:
         return f"Зараз {datetime.datetime.now().hour}:{datetime.datetime.now().minute}"
 
@@ -148,7 +161,7 @@ class Function:
                 return f"зараз по {price[0]} гривень {price[1][:2]} копійок"
 
     @staticmethod
-    def _exit():
+    def exit():
         speak("Бувайте")
         sys.exit()
 
